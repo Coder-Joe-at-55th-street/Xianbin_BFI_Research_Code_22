@@ -1,0 +1,6 @@
+This data is prepared by Xianbin Xu for 50_dental projects. It included GPA for enrollees and applicants from 2000 to 2021.
+The "type" column tells the origin of the data, be it "applicant", "First Time First Year Applicant", or "First Year Applicant".
+
+School-Level data are kept in each school, and usually not released (or not released back to 2000).
+
+The data are available in CSV and DTA format.

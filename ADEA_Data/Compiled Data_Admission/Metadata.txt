@@ -1,0 +1,42 @@
+This data is prepared by Xianbin Xu for 50_dental projects. It included the data for number of applicant, enrollee, and acceptance rate,
+in and out of state. The data range is class of 2009 to 2021. 
+
+It was organized in csv and dta as well. I used R for processing. I have included all raw data downloaded from 
+https://www.adea.org/data/students/. By unzipping the file "raw data and code" and run the R script can compile automatically.
+
+There are a few issues with the data:
+
+1. Many names of the school changed in ADEA record. I have formatted all names as they appear in 2021 report, unless they are not found.
+This is a list of schools that was in fact one school:
+
+University of Medicine and Dentistry of New Jersey New Jersey Dental School;
+University of Medicine and Dentistry of New Jersey:
+was dissolved in 2012. Most of its personnel formed Rutgers, University of New Jersey, dental school.
+(Source: https://en.wikipedia.org/wiki/University_of_Medicine_and_Dentistry_of_New_Jersey)
+
+Georgia Regents University College of Dental Medicine;
+Georgia Health Sciences University College of Dental Medicine;
+Georgia Health Sciences University;
+Medical College of Georgia;
+They are actually dental school of Augusta University.
+
+Baylor College of Dentistry:
+It's dental school of Texas A&M University
+
+2. There are some minor mistakes in original data. The state code for Conneticut was misspelled as "CN" in 2015 data. ADEA
+moved Columbia University to Montana in one year. I have changed them within the code.
+
+3. Two schools operate in two or more states.
+
+Roseman University of Health Sciences College of Dental Medicine, according to their website, have compass in both
+Utah and Nevada. Thus, There are two entries. However, their record does show that in one year only 
+one of the two records have entries. 
+It was not merged.
+
+Lake Erie College of Osteopathic Medicine (School of Dental Medicine): 
+The address shows Pennsylvania, but there are entries showing them locating in New York in ADEA data.
+They also have campus in Florida.
+I did not merge these records.
+
+4. I tried to include data from 2006 but have yet found way to copy their table--
+they were embedded table in PDF and hard to be used directly. I didn't include them. The data therefore goes only from 2009 to 2021.

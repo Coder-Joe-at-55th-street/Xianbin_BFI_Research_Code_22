@@ -1,0 +1,832 @@
+"","State","Total_App","In_State_App","Total_Enroll","In_State_Enroll","Total_Adm_Rate","In_State_Adm_Rate","School_Name_2021_Standard","year"
+"26","AL",683,75,55,16,0.0805270863836018,0.213333333333333,"University of Alabama at Birmingham School of Dentistry",2009
+"210","AL",664,113,54,46,0.0813253012048193,0.407079646017699,"University of Alabama at Birmingham School of Dentistry",2010
+"212","AL",698,128,56,52,0.0802292263610315,0.40625,"University of Alabama at Birmingham School of Dentistry",2011
+"214","AL",680,101,58,38,0.0852941176470588,0.376237623762376,"University of Alabama at Birmingham School of Dentistry",2012
+"216","AL",734,117,61,46,0.0831062670299728,0.393162393162393,"University of Alabama at Birmingham School of Dentistry",2013
+"218","AL",755,110,60,45,0.0794701986754967,0.409090909090909,"University of Alabama at Birmingham School of Dentistry",2014
+"220","AL",814,104,59,40,0.0724815724815725,0.384615384615385,"University of Alabama at Birmingham School of Dentistry",2015
+"227","AL",891,117,59,40,0.0662177328843996,0.341880341880342,"University of Alabama at Birmingham School of Dentistry",2016
+"229","AL",878,116,63,39,0.071753986332574,0.336206896551724,"University of Alabama at Birmingham School of Dentistry",2017
+"230","AL",976,116,63,48,0.0645491803278689,0.413793103448276,"University of Alabama at Birmingham School of Dentistry",2018
+"240","AL",982,97,62,43,0.0631364562118126,0.443298969072165,"University of Alabama at Birmingham School of Dentistry",2019
+"250","AL",961,124,61,40,0.0634755463059313,0.32258064516129,"University of Alabama at Birmingham School of Dentistry",2020
+"260","AL",1076,124,84,57,0.0780669144981413,0.459677419354839,"University of Alabama at Birmingham School of Dentistry",2021
+"1","AZ",3198,179,67,15,0.0209505941213258,0.0837988826815642,"A.T. Still University Arizona School of Dentistry & Oral Health",2009
+"16","AZ",2327,162,109,21,0.0468414267296949,0.12962962962963,"Midwestern University College of Dental Medicine-Arizona",2009
+"310","AZ",3180,195,70,20,0.0220125786163522,0.102564102564103,"A.T. Still University Arizona School of Dentistry & Oral Health",2010
+"410","AZ",2727,176,111,19,0.0407040704070407,0.107954545454545,"Midwestern University College of Dental Medicine-Arizona",2010
+"312","AZ",3185,183,76,17,0.023861852433281,0.092896174863388,"A.T. Still University Arizona School of Dentistry & Oral Health",2011
+"412","AZ",2771,171,112,19,0.0404186214363046,0.111111111111111,"Midwestern University College of Dental Medicine-Arizona",2011
+"314","AZ",3658,206,75,26,0.0205030071077091,0.12621359223301,"A.T. Still University Arizona School of Dentistry & Oral Health",2012
+"414","AZ",3120,190,112,29,0.0358974358974359,0.152631578947368,"Midwestern University College of Dental Medicine-Arizona",2012
+"316","AZ",3550,201,76,20,0.0214084507042254,0.0995024875621891,"A.T. Still University Arizona School of Dentistry & Oral Health",2013
+"416","AZ",2074,174,69,43,0.0332690453230473,0.247126436781609,"Midwestern University College of Dental Medicine-Arizona",2013
+"318","AZ",3273,160,76,23,0.023220287198289,0.14375,"A.T. Still University Arizona School of Dentistry & Oral Health",2014
+"418","AZ",2872,171,140,38,0.0487465181058496,0.222222222222222,"Midwestern University College of Dental Medicine-Arizona",2014
+"320","AZ",2698,175,75,15,0.0277983691623425,0.0857142857142857,"A.T. Still University Arizona School of Dentistry & Oral Health",2015
+"420","AZ",2874,175,141,34,0.0490605427974948,0.194285714285714,"Midwestern University College of Dental Medicine-Arizona",2015
+"327","AZ",2657,150,76,19,0.0286036883703425,0.126666666666667,"A.T. Still University Arizona School of Dentistry & Oral Health",2016
+"427","AZ",3227,160,142,30,0.0440037186241091,0.1875,"Midwestern University College of Dental Medicine-Arizona",2016
+"329","AZ",2433,143,76,13,0.0312371557747637,0.0909090909090909,"A.T. Still University Arizona School of Dentistry & Oral Health",2017
+"429","AZ",3110,167,140,35,0.045016077170418,0.209580838323353,"Midwestern University College of Dental Medicine-Arizona",2017
+"330","AZ",2236,114,75,14,0.0335420393559928,0.12280701754386,"A.T. Still University Arizona School of Dentistry & Oral Health",2018
+"430","AZ",2264,129,142,29,0.0627208480565371,0.224806201550388,"Midwestern University College of Dental Medicine-Arizona",2018
+"340","AZ",2325,125,76,15,0.0326881720430108,0.12,"A.T. Still University Arizona School of Dentistry & Oral Health",2019
+"440","AZ",2234,121,142,31,0.0635631154879141,0.256198347107438,"Midwestern University College of Dental Medicine-Arizona",2019
+"350","AZ",2424,128,77,16,0.0317656765676568,0.125,"A.T. Still University Arizona School of Dentistry & Oral Health",2020
+"450","AZ",2246,129,142,27,0.0632235084594835,0.209302325581395,"Midwestern University College of Dental Medicine-Arizona",2020
+"360","AZ",2818,136,78,15,0.0276792051100071,0.110294117647059,"A.T. Still University Arizona School of Dentistry & Oral Health",2021
+"460","AZ",2536,128,145,28,0.0571766561514196,0.21875,"Midwestern University College of Dental Medicine-Arizona",2021
+"10","CA",2165,902,100,59,0.046189376443418,0.065410199556541,"Loma Linda University School of Dentistry",2009
+"27","CA",1918,1112,86,73,0.0448383733055266,0.0656474820143885,"University of California, Los Angeles, School of Dentistry",2009
+"28","CA",1793,993,86,68,0.0479643056330173,0.0684793554884189,"University of California, San Francisco, School of Dentistry",2009
+"50","CA",3341,1264,143,103,0.0428015564202335,0.0814873417721519,"Herman Ostrow School of Dentistry of USC",2009
+"54","CA",3200,1255,139,106,0.0434375,0.0844621513944223,"University of the Pacific, Arthur A. Dugoni School of Dentistry",2009
+"58","CA",2309,1095,73,52,0.0316154179298398,0.0474885844748858,"Western University of Health Sciences College of Dental Medicine",2009
+"510","CA",2137,776,102,55,0.0477304632662611,0.0708762886597938,"Loma Linda University School of Dentistry",2010
+"61","CA",1883,1052,88,75,0.0467339352097716,0.0712927756653992,"University of California, Los Angeles, School of Dentistry",2010
+"71","CA",1755,961,88,70,0.0501424501424501,0.072840790842872,"University of California, San Francisco, School of Dentistry",2010
+"81","CA",3062,1210,133,105,0.0434356629653821,0.0867768595041322,"University of the Pacific, Arthur A. Dugoni School of Dentistry",2010
+"91","CA",3231,1179,144,95,0.0445682451253482,0.0805767599660729,"Herman Ostrow School of Dentistry of USC",2010
+"101","CA",2534,1093,72,42,0.0284135753749013,0.0384263494967978,"Western University of Health Sciences College of Dental Medicine",2010
+"512","CA",1770,930,88,76,0.0497175141242938,0.0817204301075269,"University of California, Los Angeles, School of Dentistry",2011
+"63","CA",1765,1002,89,63,0.0504249291784703,0.062874251497006,"University of California, San Francisco, School of Dentistry",2011
+"72","CA",1955,718,99,50,0.0506393861892583,0.0696378830083565,"Loma Linda University School of Dentistry",2011
+"82","CA",3617,1240,141,98,0.0389825822504838,0.0790322580645161,"University of the Pacific, Arthur A. Dugoni School of Dentistry",2011
+"92","CA",3316,1204,144,96,0.0434258142340169,0.079734219269103,"Herman Ostrow School of Dentistry of USC",2011
+"102","CA",2494,1093,74,41,0.0296712109061748,0.0375114364135407,"Western University of Health Sciences College of Dental Medicine",2011
+"514","CA",1987,1080,88,82,0.0442878711625566,0.0759259259259259,"University of California, Los Angeles, School of Dentistry",2012
+"64","CA",1808,947,87,72,0.0481194690265487,0.0760295670538543,"University of California, San Francisco, School of Dentistry",2012
+"73","CA",2029,732,94,51,0.0463282405125678,0.069672131147541,"Loma Linda University School of Dentistry",2012
+"83","CA",3164,1212,137,104,0.043299620733249,0.0858085808580858,"University of the Pacific, Arthur A. Dugoni School of Dentistry",2012
+"93","CA",3515,1251,137,102,0.0389758179231863,0.0815347721822542,"Herman Ostrow School of Dentistry of USC",2012
+"103","CA",2691,1142,67,41,0.0248978075065032,0.0359019264448336,"Western University of Health Sciences College of Dental Medicine",2012
+"516","CA",1771,657,88,46,0.0496894409937888,0.0700152207001522,"Loma Linda University School of Dentistry",2013
+"67","CA",2967,940,140,82,0.047185709470846,0.0872340425531915,"University of California, Los Angeles, School of Dentistry",2013
+"74","CA",1962,897,89,72,0.045361875637105,0.0802675585284281,"University of California, San Francisco, School of Dentistry",2013
+"84","CA",3329,1130,144,90,0.0432562331030339,0.079646017699115,"Herman Ostrow School of Dentistry of USC",2013
+"94","CA",1874,1106,87,108,0.0464247598719317,0.0976491862567812,"University of the Pacific, Arthur A. Dugoni School of Dentistry",2013
+"518","CA",1671,622,99,47,0.059245960502693,0.0755627009646302,"Loma Linda University School of Dentistry",2014
+"68","CA",1714,934,87,78,0.0507584597432905,0.0835117773019272,"University of California, Los Angeles, School of Dentistry",2014
+"75","CA",1966,902,88,67,0.0447609359104781,0.0742793791574279,"University of California, San Francisco, School of Dentistry",2014
+"85","CA",3121,1118,145,95,0.0464594681191926,0.0849731663685152,"Herman Ostrow School of Dentistry of USC",2014
+"95","CA",2791,1091,139,112,0.0498029380150484,0.102658111824015,"University of the Pacific, Arthur A. Dugoni School of Dentistry",2014
+"520","CA",1697,641,98,55,0.0577489687684149,0.0858034321372855,"Loma Linda University School of Dentistry",2015
+"69","CA",1769,947,87,75,0.0491803278688525,0.0791974656810982,"University of California, Los Angeles, School of Dentistry",2015
+"76","CA",1934,918,91,70,0.047052740434333,0.0762527233115468,"University of California, San Francisco, School of Dentistry",2015
+"86","CA",3098,1153,142,104,0.0458360232408005,0.0901994796183868,"Herman Ostrow School of Dentistry of USC",2015
+"96","CA",2769,1100,139,108,0.0501986276634164,0.0981818181818182,"University of the Pacific, Arthur A. Dugoni School of Dentistry",2015
+"106","CA",2576,1091,68,40,0.0263975155279503,0.0366636113657195,"Western University of Health Sciences College of Dental Medicine",2015
+"527","CA",3038,1172,142,116,0.0467412771560237,0.0989761092150171,"Herman Ostrow School of Dentistry of USC",2016
+"610","CA",1684,620,103,56,0.0611638954869359,0.0903225806451613,"Loma Linda University School of Dentistry",2016
+"77","CA",1811,953,87,76,0.0480397570403092,0.0797481636935992,"University of California, Los Angeles, School of Dentistry",2016
+"87","CA",2114,984,90,74,0.0425733207190161,0.0752032520325203,"University of California, San Francisco, School of Dentistry",2016
+"97","CA",2601,1122,142,109,0.0545943867743176,0.0971479500891266,"University of the Pacific, Arthur A. Dugoni School of Dentistry",2016
+"107","CA",2843,1130,69,38,0.0242701371790362,0.0336283185840708,"Western University of Health Sciences College of Dental Medicine",2016
+"529","CA",2852,1124,144,112,0.0504908835904628,0.099644128113879,"Herman Ostrow School of Dentistry of USC",2017
+"617","CA",1632,590,102,67,0.0625,0.113559322033898,"Loma Linda University School of Dentistry",2017
+"78","CA",1772,881,88,70,0.0496613995485327,0.0794551645856981,"University of California, Los Angeles, School of Dentistry",2017
+"88","CA",2022,928,86,65,0.0425321463897132,0.0700431034482759,"University of California, San Francisco, School of Dentistry",2017
+"98","CA",2364,1043,142,116,0.0600676818950931,0.111217641418984,"University of the Pacific, Arthur A. Dugoni School of Dentistry",2017
+"108","CA",2995,1117,69,42,0.0230383973288815,0.0376007162041182,"Western University of Health Sciences College of Dental Medicine",2017
+"530","CA",2953,1133,144,112,0.0487639688452421,0.0988526037069726,"Herman Ostrow School of Dentistry of USC",2018
+"619","CA",1540,580,99,58,0.0642857142857143,0.1,"Loma Linda University School of Dentistry",2018
+"79","CA",1429,761,88,63,0.0615815255423373,0.0827858081471748,"University of California, Los Angeles, School of Dentistry",2018
+"89","CA",1533,836,89,74,0.0580560991519896,0.0885167464114833,"University of California, San Francisco, School of Dentistry",2018
+"99","CA",2303,1077,144,110,0.0625271385149805,0.10213556174559,"University of the Pacific, Arthur A. Dugoni School of Dentistry",2018
+"109","CA",3233,1109,69,44,0.021342406433653,0.0396753832281335,"Western University of Health Sciences College of Dental Medicine",2018
+"540","CA",2342,983,144,107,0.0614859094790777,0.108850457782299,"Herman Ostrow School of Dentistry of USC",2019
+"620","CA",1390,529,100,55,0.0719424460431655,0.103969754253308,"Loma Linda University School of Dentistry",2019
+"710","CA",1292,671,88,77,0.0681114551083591,0.114754098360656,"University of California, Los Angeles, School of Dentistry",2019
+"810","CA",1401,706,88,61,0.0628122769450393,0.0864022662889518,"University of California, San Francisco, School of Dentistry",2019
+"910","CA",2126,954,144,113,0.0677328316086547,0.118448637316562,"University of the Pacific, Arthur A. Dugoni School of Dentistry",2019
+"1010","CA",2947,1000,70,39,0.0237529691211401,0.039,"Western University of Health Sciences College of Dental Medicine",2019
+"550","CA",1200,481,100,56,0.0833333333333333,0.116424116424116,"Loma Linda University School of Dentistry",2020
+"629","CA",1384,684,88,81,0.0635838150289017,0.118421052631579,"University of California, Los Angeles, School of Dentistry",2020
+"711","CA",1357,692,90,57,0.0663227708179808,0.0823699421965318,"University of California, San Francisco, School of Dentistry",2020
+"811","CA",2346,939,144,91,0.061381074168798,0.0969116080937167,"Herman Ostrow School of Dentistry of USC",2020
+"911","CA",2076,899,146,107,0.0703275529865125,0.119021134593993,"University of the Pacific, Arthur A. Dugoni School of Dentistry",2020
+"1011","CA",2855,985,70,43,0.0245183887915937,0.0436548223350254,"Western University of Health Sciences College of Dental Medicine",2020
+"560","CA",2443,992,144,117,0.0589439214081048,0.117943548387097,"Herman Ostrow School of Dentistry of USC",2021
+"630","CA",1420,565,99,59,0.0697183098591549,0.104424778761062,"Loma Linda University School of Dentistry",2021
+"712","CA",1792,846,88,79,0.0491071428571429,0.0933806146572104,"University of California, Los Angeles, School of Dentistry",2021
+"812","CA",1531,781,60,38,0.0391900718484651,0.0486555697823303,"University of California, San Francisco, School of Dentistry",2021
+"912","CA",2184,1003,144,110,0.0659340659340659,0.109670987038883,"University of the Pacific, Arthur A. Dugoni School of Dentistry",2021
+"1012","CA",2967,1046,69,41,0.0232558139534884,0.0391969407265774,"Western University of Health Sciences College of Dental Medicine",2021
+"29","CO",1533,153,48,27,0.0313111545988258,0.176470588235294,"University of Colorado School of Dental Medicine",2009
+"111","CO",1265,140,51,30,0.0403162055335968,0.214285714285714,"University of Colorado School of Dental Medicine",2010
+"112","CO",1333,152,79,47,0.059264816204051,0.309210526315789,"University of Colorado School of Dental Medicine",2011
+"113","CO",1558,148,80,44,0.0513478818998716,0.297297297297297,"University of Colorado School of Dental Medicine",2012
+"104","CO",3016,149,141,50,0.0467506631299735,0.335570469798658,"University of Colorado School of Dental Medicine",2013
+"105","CO",1607,132,79,50,0.0491599253266957,0.378787878787879,"University of Colorado School of Dental Medicine",2014
+"116","CO",1764,142,79,43,0.0447845804988662,0.302816901408451,"University of Colorado School of Dental Medicine",2015
+"117","CO",1967,126,80,51,0.0406710726995424,0.404761904761905,"University of Colorado School of Dental Medicine",2016
+"118","CO",2045,162,80,49,0.039119804400978,0.302469135802469,"University of Colorado School of Dental Medicine",2017
+"119","CO",2008,140,80,42,0.0398406374501992,0.3,"University of Colorado School of Dental Medicine",2018
+"1110","CO",2144,121,80,47,0.0373134328358209,0.388429752066116,"University of Colorado School of Dental Medicine",2019
+"1111","CO",2114,113,80,44,0.0378429517502365,0.389380530973451,"University of Colorado School of Dental Medicine",2020
+"1112","CO",2292,142,80,45,0.0349040139616056,0.316901408450704,"University of Colorado School of Dental Medicine",2021
+"30","CT",1410,81,41,25,0.0290780141843972,0.308641975308642,"University of Connecticut School of Dental Medicine",2009
+"121","CT",1189,74,43,22,0.0361648444070648,0.297297297297297,"University of Connecticut School of Dental Medicine",2010
+"122","CT",1172,72,45,23,0.0383959044368601,0.319444444444444,"University of Connecticut School of Dental Medicine",2011
+"123","CT",1236,93,40,24,0.0323624595469256,0.258064516129032,"University of Connecticut School of Dental Medicine",2012
+"114","CT",1491,90,80,22,0.0536552649228706,0.244444444444444,"University of Connecticut School of Dental Medicine",2013
+"115","CT",1242,76,46,22,0.037037037037037,0.289473684210526,"University of Connecticut School of Dental Medicine",2014
+"126","CT",1356,93,42,24,0.0309734513274336,0.258064516129032,"University of Connecticut School of Dental Medicine",2015
+"127","CT",1415,89,49,32,0.0346289752650177,0.359550561797753,"University of Connecticut School of Dental Medicine",2016
+"128","CT",1507,91,48,27,0.0318513603185136,0.296703296703297,"University of Connecticut School of Dental Medicine",2017
+"129","CT",1466,73,48,23,0.0327421555252387,0.315068493150685,"University of Connecticut School of Dental Medicine",2018
+"1210","CT",1296,87,53,25,0.0408950617283951,0.28735632183908,"University of Connecticut School of Dental Medicine",2019
+"1211","CT",1229,87,50,29,0.0406834825061025,0.333333333333333,"University of Connecticut School of Dental Medicine",2020
+"1212","CT",1333,98,51,30,0.0382595648912228,0.306122448979592,"University of Connecticut School of Dental Medicine",2021
+"8","DC",2563,10,73,3,0.0284822473663675,0.3,"Howard University College of Dentistry",2009
+"131","DC",2206,9,71,2,0.0321849501359927,0.222222222222222,"Howard University College of Dentistry",2010
+"132","DC",2160,6,68,1,0.0314814814814815,0.166666666666667,"Howard University College of Dentistry",2011
+"133","DC",2386,7,75,2,0.0314333612740989,0.285714285714286,"Howard University College of Dentistry",2012
+"124","DC",1311,6,43,0,0.0327993897787948,0,"Howard University College of Dentistry",2013
+"125","DC",2079,4,72,0,0.0346320346320346,0,"Howard University College of Dentistry",2014
+"136","DC",1983,6,77,3,0.0388300554715078,0.5,"Howard University College of Dentistry",2015
+"137","DC",2123,7,70,1,0.0329722091380122,0.142857142857143,"Howard University College of Dentistry",2016
+"138","DC",2249,4,74,2,0.0329035126722988,0.5,"Howard University College of Dentistry",2017
+"139","DC",1987,4,68,1,0.0342224458983392,0.25,"Howard University College of Dentistry",2018
+"1310","DC",1023,4,68,2,0.0664711632453568,0.5,"Howard University College of Dentistry",2019
+"1311","DC",961,1,65,0,0.0676378772112383,0,"Howard University College of Dentistry",2020
+"1312","DC",1075,7,68,2,0.0632558139534884,0.285714285714286,"Howard University College of Dentistry",2021
+"18","FL",3406,551,97,44,0.0284791544333529,0.0798548094373866,"Nova Southeastern University College of Dental Medicine",2009
+"32","FL",1394,519,82,69,0.0588235294117647,0.132947976878613,"University of Florida College of Dentistry",2009
+"141","FL",3293,576,95,56,0.028849073792894,0.0972222222222222,"Nova Southeastern University College of Dental Medicine",2010
+"151","FL",1487,568,83,76,0.0558170813718897,0.133802816901408,"University of Florida College of Dentistry",2010
+"142","FL",3015,523,100,55,0.033167495854063,0.105162523900574,"Nova Southeastern University College of Dental Medicine",2011
+"152","FL",1430,499,82,75,0.0573426573426573,0.150300601202405,"University of Florida College of Dentistry",2011
+"143","FL",3098,618,104,65,0.0335700451904455,0.105177993527508,"Nova Southeastern University College of Dental Medicine",2012
+"153","FL",1526,617,82,76,0.053735255570118,0.123176661264182,"University of Florida College of Dentistry",2012
+"134","FL",2070,588,73,60,0.0352657004830918,0.102040816326531,"Nova Southeastern University College of Dental Medicine",2013
+"144","FL",2648,595,108,88,0.040785498489426,0.147899159663866,"University of Florida College of Dentistry",2013
+"135","FL",2644,511,115,61,0.0434947049924357,0.119373776908023,"Nova Southeastern University College of Dental Medicine",2014
+"145","FL",1340,532,91,86,0.067910447761194,0.161654135338346,"University of Florida College of Dentistry",2014
+"146","FL",3195,538,101,42,0.0316118935837246,0.0780669144981413,"Lake Erie College of Osteopathic Medicine School of Dental Medicine",2015
+"156","FL",2890,586,119,66,0.0411764705882353,0.112627986348123,"Nova Southeastern University College of Dental Medicine",2015
+"166","FL",1486,579,93,84,0.0625841184387618,0.145077720207254,"University of Florida College of Dentistry",2015
+"147","FL",3492,570,100,54,0.0286368843069874,0.0947368421052632,"Lake Erie College of Osteopathic Medicine School of Dental Medicine",2016
+"157","FL",3168,631,120,78,0.0378787878787879,0.123613312202853,"Nova Southeastern University College of Dental Medicine",2016
+"167","FL",1461,603,93,89,0.0636550308008214,0.14759535655058,"University of Florida College of Dentistry",2016
+"148","FL",3312,551,105,31,0.0317028985507246,0.0562613430127042,"Lake Erie College of Osteopathic Medicine School of Dental Medicine",2017
+"158","FL",3221,611,118,72,0.0366345855324433,0.117839607201309,"Nova Southeastern University College of Dental Medicine",2017
+"168","FL",1516,577,93,85,0.0613456464379947,0.147313691507799,"University of Florida College of Dentistry",2017
+"149","FL",3343,586,105,38,0.031408914148968,0.0648464163822526,"Lake Erie College of Osteopathic Medicine School of Dental Medicine",2018
+"159","FL",3168,691,118,82,0.0372474747474747,0.118668596237337,"Nova Southeastern University College of Dental Medicine",2018
+"169","FL",1593,664,93,86,0.0583804143126177,0.129518072289157,"University of Florida College of Dentistry",2018
+"1410","FL",3470,636,105,52,0.0302593659942363,0.0817610062893082,"Lake Erie College of Osteopathic Medicine School of Dental Medicine",2019
+"1510","FL",2818,726,118,96,0.0418736692689851,0.132231404958678,"Nova Southeastern University College of Dental Medicine",2019
+"1610","FL",1549,682,93,87,0.0600387346675274,0.127565982404692,"University of Florida College of Dentistry",2019
+"1411","FL",3330,630,105,36,0.0315315315315315,0.0571428571428571,"Lake Erie College of Osteopathic Medicine School of Dental Medicine",2020
+"1511","FL",2280,651,122,96,0.0535087719298246,0.147465437788018,"Nova Southeastern University College of Dental Medicine",2020
+"1611","FL",1464,652,93,82,0.0635245901639344,0.125766871165644,"University of Florida College of Dentistry",2020
+"1412","FL",3599,670,105,27,0.0291747707696582,0.0402985074626866,"Lake Erie College of Osteopathic Medicine School of Dental Medicine",2021
+"1512","FL",2282,665,126,81,0.0552147239263804,0.121804511278195,"Nova Southeastern University College of Dental Medicine",2021
+"1612","FL",1553,685,93,89,0.0598840952994205,0.12992700729927,"University of Florida College of Dentistry",2021
+"13","GA",294,288,65,64,0.22108843537415,0.222222222222222,"Dental College of Georgia at Augusta University",2009
+"161","GA",306,290,69,67,0.225490196078431,0.231034482758621,"Dental College of Georgia at Augusta University",2010
+"162","GA",327,311,80,80,0.244648318042813,0.257234726688103,"Dental College of Georgia at Augusta University",2011
+"163","GA",NA,NA,79,75,NA,NA,"Dental College of Georgia at Augusta University",2012
+"154","GA",775,332,20,78,0.0258064516129032,0.234939759036145,"Dental College of Georgia at Augusta University",2013
+"155","GA",882,332,85,77,0.0963718820861678,0.231927710843373,"Dental College of Georgia at Augusta University",2014
+"176","GA",815,313,88,78,0.107975460122699,0.249201277955272,"Dental College of Georgia at Augusta University",2015
+"177","GA",944,315,90,84,0.0953389830508475,0.266666666666667,"Dental College of Georgia at Augusta University",2016
+"178","GA",1002,343,95,87,0.094810379241517,0.253644314868805,"Dental College of Georgia at Augusta University",2017
+"179","GA",695,268,93,85,0.133812949640288,0.317164179104478,"Dental College of Georgia at Augusta University",2018
+"1710","GA",773,273,95,87,0.122897800776197,0.318681318681319,"Dental College of Georgia at Augusta University",2019
+"1711","GA",852,302,95,86,0.11150234741784,0.28476821192053,"Dental College of Georgia at Augusta University",2020
+"1712","GA",857,274,93,82,0.108518086347725,0.299270072992701,"Dental College of Georgia at Augusta University",2021
+"34","IA",995,111,77,46,0.0773869346733668,0.414414414414414,"The University of Iowa College of Dentistry & Dental Clinics",2009
+"171","IA",948,119,80,57,0.0843881856540084,0.478991596638655,"The University of Iowa College of Dentistry & Dental Clinics",2010
+"172","IA",973,108,81,57,0.0832476875642343,0.527777777777778,"The University of Iowa College of Dentistry & Dental Clinics",2011
+"173","IA",943,126,80,57,0.0848356309650053,0.452380952380952,"The University of Iowa College of Dentistry & Dental Clinics",2012
+"164","IA",2835,118,130,58,0.0458553791887125,0.491525423728814,"The University of Iowa College of Dentistry & Dental Clinics",2013
+"165","IA",935,108,80,55,0.0855614973262032,0.509259259259259,"The University of Iowa College of Dentistry & Dental Clinics",2014
+"226","IA",837,104,80,56,0.0955794504181601,0.538461538461538,"The University of Iowa College of Dentistry & Dental Clinics",2015
+"187","IA",881,107,80,58,0.0908059023836549,0.542056074766355,"The University of Iowa College of Dentistry & Dental Clinics",2016
+"188","IA",877,91,80,56,0.0912200684150513,0.615384615384615,"The University of Iowa College of Dentistry & Dental Clinics",2017
+"189","IA",769,94,80,55,0.104031209362809,0.585106382978723,"The University of Iowa College of Dentistry & Dental Clinics",2018
+"1810","IA",825,104,80,55,0.096969696969697,0.528846153846154,"The University of Iowa College of Dentistry & Dental Clinics",2019
+"2213","IA",865,97,82,54,0.0947976878612717,0.556701030927835,"The University of Iowa College of Dentistry & Dental Clinics",2020
+"1812","IA",859,95,80,52,0.0931315483119907,0.547368421052632,"The University of Iowa College of Dentistry & Dental Clinics",2021
+"19","IL",978,382,49,45,0.0501022494887526,0.117801047120419,"Southern Illinois University School of Dental Medicine",2009
+"33","IL",1656,395,68,57,0.0410628019323672,0.144303797468354,"University of Illinois Chicago College of Dentistry",2009
+"181","IL",954,433,51,50,0.0534591194968553,0.115473441108545,"Southern Illinois University School of Dental Medicine",2010
+"191","IL",1702,464,68,62,0.0399529964747356,0.133620689655172,"University of Illinois Chicago College of Dentistry",2010
+"182","IL",1961,377,130,50,0.0662927078021418,0.13262599469496,"Midwestern University College of Dental Medicine-Illinois",2011
+"192","IL",1531,428,68,62,0.0444154147615937,0.144859813084112,"University of Illinois Chicago College of Dentistry",2011
+"202","IL",858,382,49,48,0.0571095571095571,0.12565445026178,"Southern Illinois University School of Dental Medicine",2011
+"183","IL",2426,381,130,47,0.0535861500412201,0.123359580052493,"Midwestern University College of Dental Medicine-Illinois",2012
+"193","IL",1648,455,68,62,0.0412621359223301,0.136263736263736,"University of Illinois Chicago College of Dentistry",2012
+"203","IL",857,399,51,51,0.05950991831972,0.12781954887218,"Southern Illinois University School of Dental Medicine",2012
+"174","IL",1215,384,87,48,0.0716049382716049,0.125,"Midwestern University College of Dental Medicine-Illinois",2013
+"184","IL",790,392,80,49,0.10126582278481,0.125,"Southern Illinois University School of Dental Medicine",2013
+"194","IL",1430,444,93,50,0.065034965034965,0.112612612612613,"University of Illinois Chicago College of Dentistry",2013
+"175","IL",2938,356,130,49,0.0442477876106195,0.137640449438202,"Midwestern University College of Dental Medicine-Illinois",2014
+"185","IL",814,359,50,48,0.0614250614250614,0.133704735376045,"Southern Illinois University School of Dental Medicine",2014
+"195","IL",460,414,50,50,0.108695652173913,0.120772946859903,"University of Illinois Chicago College of Dentistry",2014
+"186","IL",2822,359,130,47,0.0460666194188519,0.13091922005571,"Midwestern University College of Dental Medicine-Illinois",2015
+"196","IL",812,340,50,49,0.061576354679803,0.144117647058824,"Southern Illinois University School of Dental Medicine",2015
+"206","IL",456,406,52,51,0.114035087719298,0.125615763546798,"University of Illinois Chicago College of Dentistry",2015
+"197","IL",3105,354,130,44,0.0418679549114332,0.124293785310734,"Midwestern University College of Dental Medicine-Illinois",2016
+"207","IL",847,350,49,46,0.0578512396694215,0.131428571428571,"Southern Illinois University School of Dental Medicine",2016
+"2111","IL",1200,399,72,68,0.06,0.170426065162907,"University of Illinois Chicago College of Dentistry",2016
+"198","IL",2886,360,130,40,0.045045045045045,0.111111111111111,"Midwestern University College of Dental Medicine-Illinois",2017
+"208","IL",877,381,50,50,0.0570125427594071,0.131233595800525,"Southern Illinois University School of Dental Medicine",2017
+"2112","IL",1225,408,70,68,0.0571428571428571,0.166666666666667,"University of Illinois Chicago College of Dentistry",2017
+"199","IL",2197,311,131,36,0.0596267637687756,0.115755627009646,"Midwestern University College of Dental Medicine-Illinois",2018
+"209","IL",629,319,50,45,0.0794912559618442,0.141065830721003,"Southern Illinois University School of Dental Medicine",2018
+"2113","IL",1417,388,70,68,0.0494001411432604,0.175257731958763,"University of Illinois Chicago College of Dentistry",2018
+"1910","IL",2205,327,134,37,0.0607709750566893,0.113149847094801,"Midwestern University College of Dental Medicine-Illinois",2019
+"2010","IL",613,326,50,45,0.0815660685154976,0.138036809815951,"Southern Illinois University School of Dental Medicine",2019
+"2114","IL",1306,425,70,68,0.0535987748851455,0.16,"University of Illinois Chicago College of Dentistry",2019
+"1811","IL",2346,359,140,47,0.0596760443307758,0.13091922005571,"Midwestern University College of Dental Medicine-Illinois",2020
+"1911","IL",632,337,50,42,0.0791139240506329,0.124629080118694,"Southern Illinois University School of Dental Medicine",2020
+"2011","IL",1300,424,66,63,0.0507692307692308,0.148584905660377,"University of Illinois Chicago College of Dentistry",2020
+"1912","IL",2536,395,139,27,0.0548107255520505,0.0683544303797468,"Midwestern University College of Dental Medicine-Illinois",2021
+"2012","IL",645,336,50,42,0.0775193798449612,0.125,"Southern Illinois University School of Dental Medicine",2021
+"2116","IL",1346,440,70,67,0.0520059435364042,0.152272727272727,"University of Illinois Chicago College of Dentistry",2021
+"9","IN",1784,170,100,63,0.0560538116591928,0.370588235294118,"Indiana University School of Dentistry",2009
+"201","IN",1667,190,100,71,0.0599880023995201,0.373684210526316,"Indiana University School of Dentistry",2010
+"213","IN",1619,203,104,73,0.064237183446572,0.359605911330049,"Indiana University School of Dentistry",2011
+"215","IN",1672,230,103,74,0.0616028708133971,0.321739130434783,"Indiana University School of Dentistry",2012
+"204","IN",911,200,80,74,0.0878155872667399,0.37,"Indiana University School of Dentistry",2013
+"205","IN",1434,202,104,69,0.0725244072524407,0.341584158415842,"Indiana University School of Dentistry",2014
+"2110","IN",1506,211,107,72,0.0710491367861886,0.341232227488152,"Indiana University School of Dentistry",2015
+"228","IN",1332,193,106,70,0.0795795795795796,0.362694300518135,"Indiana University School of Dentistry",2016
+"2210","IN",1274,176,106,63,0.0832025117739403,0.357954545454545,"Indiana University School of Dentistry",2017
+"2211","IN",1109,143,105,61,0.0946798917944094,0.426573426573427,"Indiana University School of Dentistry",2018
+"2212","IN",1195,161,105,60,0.0878661087866109,0.372670807453416,"Indiana University School of Dentistry",2019
+"2115","IN",943,152,101,59,0.107104984093319,0.388157894736842,"Indiana University School of Dentistry",2020
+"2214","IN",1247,166,103,62,0.082598235765838,0.373493975903614,"Indiana University School of Dentistry",2021
+"35","KY",1476,120,56,21,0.037940379403794,0.175,"University of Kentucky College of Dentistry",2009
+"36","KY",2732,122,84,2,0.0307467057101025,0.0163934426229508,"University of Louisville School of Dentistry",2009
+"211","KY",1461,196,57,38,0.0390143737166324,0.193877551020408,"University of Kentucky College of Dentistry",2010
+"221","KY",2953,203,120,44,0.0406366407043684,0.216748768472906,"University of Louisville School of Dentistry",2010
+"222","KY",1525,192,57,38,0.0373770491803279,0.197916666666667,"University of Kentucky College of Dentistry",2011
+"232","KY",2946,196,114,44,0.0386965376782077,0.224489795918367,"University of Louisville School of Dentistry",2011
+"223","KY",1682,164,57,38,0.0338882282996433,0.231707317073171,"University of Kentucky College of Dentistry",2012
+"233","KY",3048,172,116,43,0.0380577427821522,0.25,"University of Louisville School of Dentistry",2012
+"217","KY",849,155,50,39,0.0588928150765607,0.251612903225806,"University of Kentucky College of Dentistry",2013
+"224","KY",1629,160,52,42,0.0319214241866176,0.2625,"University of Louisville School of Dentistry",2013
+"219","KY",1802,155,66,37,0.0366259711431743,0.238709677419355,"University of Kentucky College of Dentistry",2014
+"225","KY",3109,154,119,44,0.0382759729816661,0.285714285714286,"University of Louisville School of Dentistry",2014
+"236","KY",1836,153,65,39,0.0354030501089325,0.254901960784314,"University of Kentucky College of Dentistry",2015
+"246","KY",3069,164,120,46,0.0391006842619746,0.280487804878049,"University of Louisville School of Dentistry",2015
+"237","KY",1904,145,65,36,0.0341386554621849,0.248275862068966,"University of Kentucky College of Dentistry",2016
+"247","KY",3073,151,118,41,0.0383989586723072,0.271523178807947,"University of Louisville School of Dentistry",2016
+"238","KY",1789,154,65,34,0.0363331470095025,0.220779220779221,"University of Kentucky College of Dentistry",2017
+"248","KY",2802,156,119,45,0.042469664525339,0.288461538461538,"University of Louisville School of Dentistry",2017
+"239","KY",1816,122,65,35,0.0357929515418502,0.286885245901639,"University of Kentucky College of Dentistry",2018
+"249","KY",2416,139,117,37,0.0484271523178808,0.266187050359712,"University of Louisville School of Dentistry",2018
+"2310","KY",1263,129,65,37,0.051464766429137,0.286821705426357,"University of Kentucky College of Dentistry",2019
+"2410","KY",2233,141,120,32,0.0537393640841917,0.226950354609929,"University of Louisville School of Dentistry",2019
+"2311","KY",938,109,65,34,0.0692963752665245,0.311926605504587,"University of Kentucky College of Dentistry",2020
+"2411","KY",2045,115,116,33,0.0567237163814181,0.28695652173913,"University of Louisville School of Dentistry",2020
+"2312","KY",1102,113,65,38,0.058983666061706,0.336283185840708,"University of Kentucky College of Dentistry",2021
+"2412","KY",1896,118,117,28,0.0617088607594937,0.23728813559322,"University of Louisville School of Dentistry",2021
+"11","LA",228,147,63,53,0.276315789473684,0.360544217687075,"Louisiana State University Health New Orleans School of Dentistry",2009
+"231","LA",513,137,65,58,0.126705653021442,0.423357664233577,"Louisiana State University Health New Orleans School of Dentistry",2010
+"242","LA",675,159,65,60,0.0962962962962963,0.377358490566038,"Louisiana State University Health New Orleans School of Dentistry",2011
+"243","LA",738,192,64,55,0.0867208672086721,0.286458333333333,"Louisiana State University Health New Orleans School of Dentistry",2012
+"234","LA",943,182,71,59,0.0752916224814422,0.324175824175824,"Louisiana State University Health New Orleans School of Dentistry",2013
+"235","LA",660,186,65,59,0.0984848484848485,0.317204301075269,"Louisiana State University Health New Orleans School of Dentistry",2014
+"256","LA",596,169,65,59,0.109060402684564,0.349112426035503,"Louisiana State University Health New Orleans School of Dentistry",2015
+"257","LA",481,151,65,61,0.135135135135135,0.403973509933775,"Louisiana State University Health New Orleans School of Dentistry",2016
+"258","LA",435,133,65,59,0.149425287356322,0.443609022556391,"Louisiana State University Health New Orleans School of Dentistry",2017
+"259","LA",422,118,74,68,0.175355450236967,0.576271186440678,"Louisiana State University Health New Orleans School of Dentistry",2018
+"2510","LA",435,131,73,62,0.167816091954023,0.473282442748092,"Louisiana State University Health New Orleans School of Dentistry",2019
+"2511","LA",508,128,75,58,0.147637795275591,0.453125,"Louisiana State University Health New Orleans School of Dentistry",2020
+"2512","LA",755,161,75,57,0.0993377483443709,0.354037267080745,"Louisiana State University Health New Orleans School of Dentistry",2021
+"3","MA",4664,157,113,20,0.0242281303602058,0.127388535031847,"Boston University Henry M. Goldman School of Dental Medicine",2009
+"7","MA",947,55,35,3,0.0369588173178458,0.0545454545454545,"Harvard School of Dental Medicine",2009
+"23","MA",4515,153,175,30,0.0387596899224806,0.196078431372549,"Tufts University School of Dental Medicine",2009
+"241","MA",4535,174,115,28,0.0253583241455347,0.160919540229885,"Boston University Henry M. Goldman School of Dental Medicine",2010
+"251","MA",940,65,35,4,0.0372340425531915,0.0615384615384615,"Harvard School of Dental Medicine",2010
+"261","MA",4417,174,176,28,0.0398460493547657,0.160919540229885,"Tufts University School of Dental Medicine",2010
+"252","MA",4588,167,111,29,0.0241935483870968,0.173652694610778,"Boston University Henry M. Goldman School of Dental Medicine",2011
+"262","MA",1028,69,35,3,0.0340466926070039,0.0434782608695652,"Harvard School of Dental Medicine",2011
+"272","MA",4476,168,184,32,0.0411081322609473,0.19047619047619,"Tufts University School of Dental Medicine",2011
+"253","MA",4785,169,113,30,0.0236154649947753,0.177514792899408,"Boston University Henry M. Goldman School of Dental Medicine",2012
+"263","MA",1080,59,35,2,0.0324074074074074,0.0338983050847458,"Harvard School of Dental Medicine",2012
+"273","MA",4640,167,182,31,0.0392241379310345,0.18562874251497,"Tufts University School of Dental Medicine",2012
+"244","MA",1705,171,66,23,0.0387096774193548,0.134502923976608,"Boston University Henry M. Goldman School of Dental Medicine",2013
+"254","MA",2979,69,117,4,0.0392749244712991,0.0579710144927536,"Harvard School of Dental Medicine",2013
+"264","MA",707,181,65,46,0.0919377652050919,0.25414364640884,"Tufts University School of Dental Medicine",2013
+"245","MA",4118,176,113,32,0.0274405050995629,0.181818181818182,"Boston University Henry M. Goldman School of Dental Medicine",2014
+"255","MA",1009,68,35,0,0.0346878097125867,0,"Harvard School of Dental Medicine",2014
+"265","MA",3662,178,195,61,0.0532495903877662,0.342696629213483,"Tufts University School of Dental Medicine",2014
+"286","MA",3984,183,115,36,0.0288654618473896,0.19672131147541,"Boston University Henry M. Goldman School of Dental Medicine",2015
+"296","MA",947,67,35,4,0.0369588173178458,0.0597014925373134,"Harvard School of Dental Medicine",2015
+"306","MA",3511,188,203,61,0.0578182853887781,0.324468085106383,"Tufts University School of Dental Medicine",2015
+"267","MA",3956,163,116,30,0.0293225480283114,0.184049079754601,"Boston University Henry M. Goldman School of Dental Medicine",2016
+"277","MA",990,56,35,3,0.0353535353535354,0.0535714285714286,"Harvard School of Dental Medicine",2016
+"287","MA",3693,173,201,49,0.0544272948822096,0.283236994219653,"Tufts University School of Dental Medicine",2016
+"268","MA",3536,155,117,33,0.0330882352941176,0.212903225806452,"Boston University Henry M. Goldman School of Dental Medicine",2017
+"278","MA",1030,61,35,2,0.0339805825242718,0.0327868852459016,"Harvard School of Dental Medicine",2017
+"288","MA",3876,173,193,39,0.0497936016511868,0.225433526011561,"Tufts University School of Dental Medicine",2017
+"269","MA",2599,170,117,42,0.0450173143516737,0.247058823529412,"Boston University Henry M. Goldman School of Dental Medicine",2018
+"279","MA",1010,77,35,6,0.0346534653465347,0.0779220779220779,"Harvard School of Dental Medicine",2018
+"289","MA",3891,190,198,27,0.0508866615265998,0.142105263157895,"Tufts University School of Dental Medicine",2018
+"2610","MA",2478,192,112,35,0.0451977401129944,0.182291666666667,"Boston University Henry M. Goldman School of Dental Medicine",2019
+"2710","MA",949,67,35,3,0.0368809272918862,0.0447761194029851,"Harvard School of Dental Medicine",2019
+"2810","MA",4022,210,199,39,0.0494778717056191,0.185714285714286,"Tufts University School of Dental Medicine",2019
+"2811","MA",2293,154,115,41,0.0501526384648932,0.266233766233766,"Boston University Henry M. Goldman School of Dental Medicine",2020
+"2911","MA",920,66,35,3,0.0380434782608696,0.0454545454545455,"Harvard School of Dental Medicine",2020
+"3011","MA",3946,173,209,29,0.0529650278763305,0.167630057803468,"Tufts University School of Dental Medicine",2020
+"2612","MA",2828,159,113,33,0.03995756718529,0.207547169811321,"Boston University Henry M. Goldman School of Dental Medicine",2021
+"2712","MA",1031,73,35,4,0.0339476236663434,0.0547945205479452,"Harvard School of Dental Medicine",2021
+"2812","MA",4253,190,203,33,0.0477310134023043,0.173684210526316,"Tufts University School of Dental Medicine",2021
+"37","MD",2818,201,128,65,0.0454222853087296,0.323383084577114,"University of Maryland School of Dentistry",2009
+"271","MD",2763,196,130,69,0.0470503076366269,0.352040816326531,"University of Maryland School of Dentistry",2010
+"282","MD",2861,208,131,69,0.0457881859489689,0.331730769230769,"University of Maryland School of Dentistry",2011
+"283","MD",2902,208,128,64,0.0441075120606478,0.307692307692308,"University of Maryland School of Dentistry",2012
+"274","MD",1412,226,104,69,0.0736543909348442,0.305309734513274,"University of Maryland School of Dentistry",2013
+"275","MD",2620,260,130,73,0.049618320610687,0.280769230769231,"University of Maryland School of Dentistry",2014
+"276","MD",2682,232,133,73,0.0495898583146905,0.314655172413793,"University of Maryland School of Dentistry",2015
+"297","MD",2688,210,132,65,0.0491071428571429,0.30952380952381,"University of Maryland School of Dentistry",2016
+"298","MD",2769,223,130,76,0.0469483568075117,0.340807174887892,"University of Maryland School of Dentistry",2017
+"299","MD",2157,192,129,71,0.0598052851182197,0.369791666666667,"University of Maryland School of Dentistry",2018
+"2910","MD",1948,187,129,71,0.0662217659137577,0.379679144385027,"University of Maryland School of Dentistry",2019
+"2711","MD",1801,165,133,64,0.0738478622987229,0.387878787878788,"University of Maryland School of Dentistry",2020
+"2912","MD",1946,197,130,54,0.0668036998972251,0.274111675126904,"University of Maryland School of Dentistry",2021
+"284","ME",2522,52,100,24,0.0396510705789056,0.461538461538462,"University of New England College of Dental Medicine",2013
+"285","ME",1229,35,62,17,0.0504475183075671,0.485714285714286,"University of New England College of Dental Medicine",2014
+"266","ME",1479,34,64,16,0.0432724814063556,0.470588235294118,"University of New England College of Dental Medicine",2015
+"307","ME",1854,31,64,11,0.0345199568500539,0.354838709677419,"University of New England College of Dental Medicine",2016
+"308","ME",1912,41,64,19,0.0334728033472803,0.463414634146341,"University of New England College of Dental Medicine",2017
+"309","ME",1793,39,64,15,0.0356943669827105,0.384615384615385,"University of New England College of Dental Medicine",2018
+"3010","ME",1070,28,64,9,0.0598130841121495,0.321428571428571,"University of New England College of Dental Medicine",2019
+"2611","ME",822,21,61,3,0.0742092457420925,0.142857142857143,"University of New England College of Dental Medicine",2020
+"3012","ME",898,19,64,10,0.0712694877505568,0.526315789473684,"University of New England College of Dental Medicine",2021
+"31","MI",1770,322,88,5,0.0497175141242938,0.015527950310559,"University of Detroit Mercy School of Dentistry",2009
+"38","MI",2097,285,105,52,0.050071530758226,0.182456140350877,"University of Michigan School of Dentistry",2009
+"281","MI",1717,322,87,65,0.0506697728596389,0.201863354037267,"University of Detroit Mercy School of Dentistry",2010
+"291","MI",2071,285,105,65,0.0507001448575567,0.228070175438596,"University of Michigan School of Dentistry",2010
+"292","MI",1571,345,98,66,0.0623806492679822,0.191304347826087,"University of Detroit Mercy School of Dentistry",2011
+"302","MI",2141,327,108,80,0.050443717888837,0.244648318042813,"University of Michigan School of Dentistry",2011
+"293","MI",1670,379,128,86,0.0766467065868263,0.226912928759894,"University of Detroit Mercy School of Dentistry",2012
+"303","MI",2293,364,109,65,0.0475359790667248,0.178571428571429,"University of Michigan School of Dentistry",2012
+"294","MI",4432,413,114,81,0.0257220216606498,0.196125907990315,"University of Detroit Mercy School of Dentistry",2013
+"304","MI",1042,354,35,61,0.0335892514395393,0.172316384180791,"University of Michigan School of Dentistry",2013
+"295","MI",1632,353,144,74,0.0882352941176471,0.209631728045326,"University of Detroit Mercy School of Dentistry",2014
+"305","MI",1963,316,108,66,0.0550178298522669,0.208860759493671,"University of Michigan School of Dentistry",2014
+"3110","MI",1443,335,148,69,0.102564102564103,0.205970149253731,"University of Detroit Mercy School of Dentistry",2015
+"326","MI",1877,314,104,69,0.0554075652637187,0.219745222929936,"University of Michigan School of Dentistry",2015
+"3111","MI",1629,397,143,74,0.0877839165131983,0.18639798488665,"University of Detroit Mercy School of Dentistry",2016
+"328","MI",2104,375,105,59,0.0499049429657795,0.157333333333333,"University of Michigan School of Dentistry",2016
+"3112","MI",1659,454,144,79,0.0867992766726944,0.174008810572687,"University of Detroit Mercy School of Dentistry",2017
+"3210","MI",2179,418,109,61,0.0500229463056448,0.145933014354067,"University of Michigan School of Dentistry",2017
+"3113","MI",1583,396,143,82,0.0903348073278585,0.207070707070707,"University of Detroit Mercy School of Dentistry",2018
+"3211","MI",1893,376,106,61,0.0559957739038563,0.162234042553191,"University of Michigan School of Dentistry",2018
+"3114","MI",1526,412,144,84,0.0943643512450852,0.203883495145631,"University of Detroit Mercy School of Dentistry",2019
+"3212","MI",1747,379,108,64,0.0618202633085289,0.168865435356201,"University of Michigan School of Dentistry",2019
+"3115","MI",1517,386,143,72,0.0942649967040211,0.186528497409326,"University of Detroit Mercy School of Dentistry",2020
+"3213","MI",1604,355,108,71,0.0673316708229426,0.2,"University of Michigan School of Dentistry",2020
+"3116","MI",1759,438,143,81,0.0812961910176237,0.184931506849315,"University of Detroit Mercy School of Dentistry",2021
+"3214","MI",1869,411,109,54,0.0583199571963617,0.131386861313869,"University of Michigan School of Dentistry",2021
+"39","MN",1078,208,98,66,0.0909090909090909,0.317307692307692,"University of Minnesota School of Dentistry",2009
+"301","MN",955,216,98,56,0.10261780104712,0.259259259259259,"University of Minnesota School of Dentistry",2010
+"313","MN",992,211,98,57,0.0987903225806452,0.270142180094787,"University of Minnesota School of Dentistry",2011
+"315","MN",1169,227,97,66,0.0829769033361848,0.290748898678414,"University of Minnesota School of Dentistry",2012
+"317","MN",4285,188,187,57,0.0436406067677946,0.303191489361702,"University of Minnesota School of Dentistry",2013
+"319","MN",1155,217,100,64,0.0865800865800866,0.294930875576037,"University of Minnesota School of Dentistry",2014
+"336","MN",1126,186,110,70,0.0976909413854352,0.376344086021505,"University of Minnesota School of Dentistry",2015
+"337","MN",1263,195,109,63,0.0863024544734759,0.323076923076923,"University of Minnesota School of Dentistry",2016
+"338","MN",1166,173,110,68,0.0943396226415094,0.393063583815029,"University of Minnesota School of Dentistry",2017
+"339","MN",1191,170,108,72,0.0906801007556675,0.423529411764706,"University of Minnesota School of Dentistry",2018
+"3310","MN",564,152,108,68,0.191489361702128,0.447368421052632,"University of Minnesota School of Dentistry",2019
+"3311","MN",659,168,105,69,0.159332321699545,0.410714285714286,"University of Minnesota School of Dentistry",2020
+"3312","MN",1009,167,103,69,0.102081268582755,0.413173652694611,"University of Minnesota School of Dentistry",2021
+"41","MO",869,179,103,76,0.118527042577675,0.424581005586592,"University of Missouri - Kansas City School of Dentistry",2009
+"311","MO",705,164,108,81,0.153191489361702,0.49390243902439,"University of Missouri - Kansas City School of Dentistry",2010
+"322","MO",635,142,109,74,0.171653543307087,0.52112676056338,"University of Missouri - Kansas City School of Dentistry",2011
+"323","MO",763,163,104,73,0.136304062909568,0.447852760736196,"University of Missouri - Kansas City School of Dentistry",2012
+"324","MO",2350,112,97,9,0.0412765957446809,0.0803571428571429,"A.T. Still University Missouri School of Dentistry & Oral Health",2013
+"334","MO",2764,171,130,72,0.0470332850940666,0.421052631578947,"University of Missouri - Kansas City School of Dentistry",2013
+"325","MO",1030,106,42,13,0.0407766990291262,0.122641509433962,"A.T. Still University Missouri School of Dentistry & Oral Health",2014
+"335","MO",850,169,106,73,0.124705882352941,0.431952662721893,"University of Missouri - Kansas City School of Dentistry",2014
+"356","MO",1270,120,42,11,0.0330708661417323,0.0916666666666667,"A.T. Still University Missouri School of Dentistry & Oral Health",2015
+"366","MO",862,173,108,71,0.125290023201856,0.410404624277457,"University of Missouri - Kansas City School of Dentistry",2015
+"347","MO",1477,134,42,11,0.028436018957346,0.082089552238806,"A.T. Still University Missouri School of Dentistry & Oral Health",2016
+"357","MO",955,177,109,60,0.11413612565445,0.338983050847458,"University of Missouri - Kansas City School of Dentistry",2016
+"348","MO",1433,102,42,12,0.0293091416608514,0.117647058823529,"A.T. Still University Missouri School of Dentistry & Oral Health",2017
+"358","MO",923,149,109,68,0.118093174431203,0.456375838926175,"University of Missouri - Kansas City School of Dentistry",2017
+"349","MO",1257,93,42,8,0.0334128878281623,0.0860215053763441,"A.T. Still University Missouri School of Dentistry & Oral Health",2018
+"359","MO",840,141,106,71,0.126190476190476,0.50354609929078,"University of Missouri - Kansas City School of Dentistry",2018
+"3410","MO",1308,90,62,14,0.0474006116207951,0.155555555555556,"A.T. Still University Missouri School of Dentistry & Oral Health",2019
+"3510","MO",877,145,109,59,0.124287343215507,0.406896551724138,"University of Missouri - Kansas City School of Dentistry",2019
+"3511","MO",1363,75,61,10,0.0447542186353632,0.133333333333333,"A.T. Still University Missouri School of Dentistry & Oral Health",2020
+"3611","MO",719,121,108,59,0.150208623087622,0.487603305785124,"University of Missouri - Kansas City School of Dentistry",2020
+"3412","MO",1610,95,63,15,0.0391304347826087,0.157894736842105,"A.T. Still University Missouri School of Dentistry & Oral Health",2021
+"3512","MO",851,148,108,62,0.126909518213866,0.418918918918919,"University of Missouri - Kansas City School of Dentistry",2021
+"40","MS",112,98,34,33,0.303571428571429,0.336734693877551,"University of Mississippi Medical Center School of Dentistry",2009
+"321","MS",109,100,35,35,0.321100917431193,0.35,"University of Mississippi Medical Center School of Dentistry",2010
+"332","MS",100,89,34,33,0.34,0.370786516853933,"University of Mississippi Medical Center School of Dentistry",2011
+"333","MS",NA,NA,35,35,NA,NA,"University of Mississippi Medical Center School of Dentistry",2012
+"344","MS",1140,NA,59,32,0.0517543859649123,NA,"University of Mississippi Medical Center School of Dentistry",2013
+"345","MS",NA,NA,35,34,NA,NA,"University of Mississippi Medical Center School of Dentistry",2014
+"346","MS",225,110,37,37,0.164444444444444,0.336363636363636,"University of Mississippi Medical Center School of Dentistry",2015
+"367","MS",186,110,39,38,0.209677419354839,0.345454545454545,"University of Mississippi Medical Center School of Dentistry",2016
+"368","MS",228,116,40,40,0.175438596491228,0.344827586206897,"University of Mississippi Medical Center School of Dentistry",2017
+"369","MS",196,101,39,39,0.198979591836735,0.386138613861386,"University of Mississippi Medical Center School of Dentistry",2018
+"3610","MS",198,95,39,38,0.196969696969697,0.4,"University of Mississippi Medical Center School of Dentistry",2019
+"3411","MS",193,125,39,39,0.202072538860104,0.312,"University of Mississippi Medical Center School of Dentistry",2020
+"3612","MS",193,143,40,40,0.207253886010363,0.27972027972028,"University of Mississippi Medical Center School of Dentistry",2021
+"44","NC",1363,275,80,69,0.0586940572267058,0.250909090909091,"University of North Carolina at Chapel Hill Adams School of Dentistry",2009
+"331","NC",1402,293,81,66,0.057774607703281,0.225255972696246,"University of North Carolina at Chapel Hill Adams School of Dentistry",2010
+"342","NC",369,346,52,51,0.140921409214092,0.147398843930636,"East Carolina University School of Dental Medicine",2011
+"352","NC",1421,324,79,66,0.055594651653765,0.203703703703704,"University of North Carolina at Chapel Hill Adams School of Dentistry",2011
+"343","NC",399,366,52,52,0.130325814536341,0.14207650273224,"East Carolina University School of Dental Medicine",2012
+"353","NC",1695,351,81,69,0.047787610619469,0.196581196581197,"University of North Carolina at Chapel Hill Adams School of Dentistry",2012
+"354","NC",1720,360,58,51,0.0337209302325581,0.141666666666667,"East Carolina University School of Dental Medicine",2013
+"364","NC",1752,354,81,68,0.0462328767123288,0.192090395480226,"University of North Carolina at Chapel Hill Adams School of Dentistry",2013
+"355","NC",397,364,52,51,0.130982367758186,0.14010989010989,"East Carolina University School of Dental Medicine",2014
+"365","NC",1700,348,82,70,0.0482352941176471,0.201149425287356,"University of North Carolina at Chapel Hill Adams School of Dentistry",2014
+"456","NC",402,362,53,53,0.131840796019901,0.146408839779006,"East Carolina University School of Dental Medicine",2015
+"466","NC",1739,347,82,69,0.0471535365152386,0.198847262247839,"University of North Carolina at Chapel Hill Adams School of Dentistry",2015
+"377","NC",439,362,52,52,0.118451025056948,0.143646408839779,"East Carolina University School of Dental Medicine",2016
+"387","NC",1847,367,82,68,0.0443963183540877,0.185286103542234,"University of North Carolina at Chapel Hill Adams School of Dentistry",2016
+"378","NC",533,393,52,52,0.0975609756097561,0.132315521628499,"East Carolina University School of Dental Medicine",2017
+"388","NC",1712,380,82,68,0.0478971962616822,0.178947368421053,"University of North Carolina at Chapel Hill Adams School of Dentistry",2017
+"379","NC",451,337,52,52,0.11529933481153,0.154302670623145,"East Carolina University School of Dental Medicine",2018
+"389","NC",1207,309,83,64,0.0687655343827672,0.207119741100324,"University of North Carolina at Chapel Hill Adams School of Dentistry",2018
+"3710","NC",387,330,52,52,0.134366925064599,0.157575757575758,"East Carolina University School of Dental Medicine",2019
+"3810","NC",1201,312,82,64,0.0682764363030808,0.205128205128205,"University of North Carolina at Chapel Hill Adams School of Dentistry",2019
+"4611","NC",381,329,52,52,0.136482939632546,0.158054711246201,"East Carolina University School of Dental Medicine",2020
+"4711","NC",1211,304,82,66,0.0677126341866226,0.217105263157895,"University of North Carolina at Chapel Hill Adams School of Dentistry",2020
+"3712","NC",356,330,53,53,0.148876404494382,0.160606060606061,"East Carolina University School of Dental Medicine",2021
+"3812","NC",1381,335,75,53,0.054308472121651,0.158208955223881,"University of North Carolina at Chapel Hill Adams School of Dentistry",2021
+"6","NE",2898,88,88,4,0.0303657694962043,0.0454545454545455,"Creighton University School of Dentistry",2009
+"42","NE",895,101,42,30,0.046927374301676,0.297029702970297,"University of Nebraska Medical Center College of Dentistry",2009
+"341","NE",2729,89,85,12,0.0311469402711616,0.134831460674157,"Creighton University School of Dentistry",2010
+"351","NE",845,93,47,29,0.0556213017751479,0.311827956989247,"University of Nebraska Medical Center College of Dentistry",2010
+"362","NE",2668,79,85,13,0.0318590704647676,0.164556962025316,"Creighton University School of Dentistry",2011
+"372","NE",834,91,46,35,0.0551558752997602,0.384615384615385,"University of Nebraska Medical Center College of Dentistry",2011
+"363","NE",2743,68,85,10,0.030987969376595,0.147058823529412,"Creighton University School of Dentistry",2012
+"373","NE",854,78,48,28,0.0562060889929742,0.358974358974359,"University of Nebraska Medical Center College of Dentistry",2012
+"374","NE",1135,74,64,11,0.0563876651982379,0.148648648648649,"Creighton University School of Dentistry",2013
+"384","NE",1738,89,141,29,0.0811277330264672,0.325842696629214,"University of Nebraska Medical Center College of Dentistry",2013
+"375","NE",2239,71,85,11,0.0379633765073694,0.154929577464789,"Creighton University School of Dentistry",2014
+"385","NE",691,87,48,35,0.0694645441389291,0.402298850574713,"University of Nebraska Medical Center College of Dentistry",2014
+"386","NE",2197,65,79,7,0.0359581247155212,0.107692307692308,"Creighton University School of Dentistry",2015
+"396","NE",678,87,48,38,0.0707964601769911,0.436781609195402,"University of Nebraska Medical Center College of Dentistry",2015
+"397","NE",2188,82,85,15,0.0388482632541133,0.182926829268293,"Creighton University School of Dentistry",2016
+"407","NE",676,78,48,31,0.0710059171597633,0.397435897435897,"University of Nebraska Medical Center College of Dentistry",2016
+"398","NE",2031,70,85,12,0.0418513047759724,0.171428571428571,"Creighton University School of Dentistry",2017
+"408","NE",700,89,51,35,0.0728571428571429,0.393258426966292,"University of Nebraska Medical Center College of Dentistry",2017
+"399","NE",1940,66,103,10,0.0530927835051546,0.151515151515152,"Creighton University School of Dentistry",2018
+"409","NE",592,81,51,36,0.0861486486486486,0.444444444444444,"University of Nebraska Medical Center College of Dentistry",2018
+"3910","NE",2065,60,115,13,0.0556900726392252,0.216666666666667,"Creighton University School of Dentistry",2019
+"4010","NE",507,69,52,32,0.102564102564103,0.463768115942029,"University of Nebraska Medical Center College of Dentistry",2019
+"3711","NE",1989,47,115,9,0.0578179989944696,0.191489361702128,"Creighton University School of Dentistry",2020
+"3811","NE",511,61,52,32,0.101761252446184,0.524590163934426,"University of Nebraska Medical Center College of Dentistry",2020
+"3912","NE",1998,60,115,9,0.0575575575575576,0.15,"Creighton University School of Dentistry",2021
+"4012","NE",613,73,54,37,0.0880913539967374,0.506849315068493,"University of Nebraska Medical Center College of Dentistry",2021
+"24","NJ",2173,298,88,53,0.0404970087436723,0.177852348993289,"Rutgers, The State University of New Jersey, School of Dental Medicine",2009
+"361","NJ",2156,304,86,60,0.0398886827458256,0.197368421052632,"Rutgers, The State University of New Jersey, School of Dental Medicine",2010
+"382","NJ",1916,325,93,59,0.0485386221294363,0.181538461538462,"Rutgers, The State University of New Jersey, School of Dental Medicine",2011
+"383","NJ",1873,355,91,65,0.0485851575013348,0.183098591549296,"Rutgers, The State University of New Jersey, School of Dental Medicine",2012
+"394","NJ",1199,342,97,67,0.0809007506255213,0.195906432748538,"Rutgers, The State University of New Jersey, School of Dental Medicine",2013
+"395","NJ",1842,326,91,60,0.0494028230184582,0.184049079754601,"Rutgers, The State University of New Jersey, School of Dental Medicine",2014
+"4110","NJ",1901,346,89,68,0.0468174644923724,0.196531791907514,"Rutgers, The State University of New Jersey, School of Dental Medicine",2015
+"4111","NJ",2061,35,91,55,0.0441533236293062,1.57142857142857,"Rutgers, The State University of New Jersey, School of Dental Medicine",2016
+"4112","NJ",1865,345,87,58,0.0466487935656836,0.168115942028985,"Rutgers, The State University of New Jersey, School of Dental Medicine",2017
+"4113","NJ",2120,331,92,66,0.0433962264150943,0.199395770392749,"Rutgers, The State University of New Jersey, School of Dental Medicine",2018
+"4114","NJ",2174,312,91,62,0.0418583256669733,0.198717948717949,"Rutgers, The State University of New Jersey, School of Dental Medicine",2019
+"4011","NJ",1995,302,95,63,0.0476190476190476,0.208609271523179,"Rutgers, The State University of New Jersey, School of Dental Medicine",2020
+"4116","NJ",2290,320,90,59,0.0393013100436681,0.184375,"Rutgers, The State University of New Jersey, School of Dental Medicine",2021
+"43","NV",2665,88,78,13,0.0292682926829268,0.147727272727273,"University of Nevada, Las Vegas, School of Dental Medicine",2009
+"371","NV",2351,111,79,50,0.0336027222458528,0.45045045045045,"University of Nevada, Las Vegas, School of Dental Medicine",2010
+"392","NV",2288,107,78,43,0.0340909090909091,0.401869158878505,"University of Nevada, Las Vegas, School of Dental Medicine",2011
+"393","NV",2276,96,74,35,0.0325131810193322,0.364583333333333,"University of Nevada, Las Vegas, School of Dental Medicine",2012
+"404","NV",1611,44,83,0,0.0515207945375543,0,"Roseman University of Health Sciences College of Dental Medicine",2013
+"417","NV",1991,85,105,39,0.0527373179306881,0.458823529411765,"University of Nevada, Las Vegas, School of Dental Medicine",2013
+"405","NV",1818,28,80,0,0.044004400440044,0,"Roseman University of Health Sciences College of Dental Medicine",2014
+"419","NV",1973,78,81,40,0.0410542321338064,0.512820512820513,"University of Nevada, Las Vegas, School of Dental Medicine",2014
+"406","NV",1924,82,82,43,0.0426195426195426,0.524390243902439,"University of Nevada, Las Vegas, School of Dental Medicine",2015
+"428","NV",1950,86,78,32,0.04,0.372093023255814,"University of Nevada, Las Vegas, School of Dental Medicine",2016
+"4210","NV",1930,72,81,49,0.0419689119170984,0.680555555555556,"University of Nevada, Las Vegas, School of Dental Medicine",2017
+"4211","NV",1831,82,81,46,0.0442381212452212,0.560975609756098,"University of Nevada, Las Vegas, School of Dental Medicine",2018
+"4212","NV",1675,77,80,44,0.0477611940298507,0.571428571428571,"University of Nevada, Las Vegas, School of Dental Medicine",2019
+"3911","NV",1603,87,84,47,0.0524017467248908,0.540229885057471,"University of Nevada, Las Vegas, School of Dental Medicine",2020
+"4214","NV",1797,78,82,44,0.0456316082359488,0.564102564102564,"University of Nevada, Las Vegas, School of Dental Medicine",2021
+"5","NY",2484,454,75,29,0.0301932367149758,0.0638766519823789,"Columbia University College of Dental Medicine",2009
+"17","NY",4965,624,240,69,0.0483383685800604,0.110576923076923,"NYU College of Dentistry",2009
+"20","NY",1459,559,40,36,0.0274160383824537,0.0644007155635063,"Stony Brook University School of Dental Medicine",2009
+"25","NY",2252,526,89,61,0.0395204262877442,0.115969581749049,"University at Buffalo School of Dental Medicine",2009
+"381","NY",2364,412,76,22,0.0321489001692047,0.0533980582524272,"Columbia University College of Dental Medicine",2010
+"391","NY",4826,582,232,83,0.0480729382511397,0.142611683848797,"NYU College of Dentistry",2010
+"401","NY",1257,496,39,35,0.0310262529832936,0.0705645161290323,"Stony Brook University School of Dental Medicine",2010
+"411","NY",2006,492,90,74,0.0448654037886341,0.150406504065041,"University at Buffalo School of Dental Medicine",2010
+"402","NY",2257,385,80,22,0.0354452813469207,0.0571428571428571,"Columbia University College of Dental Medicine",2011
+"413","NY",4832,531,243,78,0.0502897350993377,0.146892655367232,"NYU College of Dentistry",2011
+"422","NY",1837,468,90,65,0.0489929232444202,0.138888888888889,"University at Buffalo School of Dental Medicine",2011
+"432","NY",1057,433,41,37,0.0387890255439924,0.0854503464203233,"Stony Brook University School of Dental Medicine",2011
+"403","NY",2471,416,78,26,0.0315661675435047,0.0625,"Columbia University College of Dental Medicine",2012
+"415","NY",5421,607,244,89,0.0450101457295702,0.14662273476112,"NYU College of Dentistry",2012
+"423","NY",1845,502,90,69,0.0487804878048781,0.137450199203187,"University at Buffalo School of Dental Medicine",2012
+"433","NY",1100,451,40,37,0.0363636363636364,0.082039911308204,"Stony Brook University School of Dental Medicine",2012
+"443","NY",2620,566,100,51,0.0381679389312977,0.0901060070671378,"Lake Erie College of Osteopathic Medicine",2012
+"424","NY",954,373,42,23,0.0440251572327044,0.0616621983914209,"Columbia University College of Dental Medicine",2013
+"434","NY",904,562,106,129,0.117256637168142,0.229537366548043,"NYU College of Dentistry",2013
+"444","NY",392,453,52,38,0.13265306122449,0.0838852097130243,"Stony Brook University School of Dental Medicine",2013
+"454","NY",NA,476,36,69,NA,0.144957983193277,"University at Buffalo School of Dental Medicine",2013
+"425","NY",2051,382,80,34,0.0390053632374451,0.0890052356020942,"Columbia University College of Dental Medicine",2014
+"435","NY",4581,580,382,115,0.0833879065706178,0.198275862068966,"NYU College of Dentistry",2014
+"445","NY",1106,452,42,39,0.0379746835443038,0.086283185840708,"Stony Brook University School of Dental Medicine",2014
+"455","NY",1760,489,90,72,0.0511363636363636,0.147239263803681,"University at Buffalo School of Dental Medicine",2014
+"376","NY",2026,2,80,0,0.0394866732477789,0,"Columbia University College of Dental Medicine",2015
+"426","NY",4362,597,386,143,0.088491517652453,0.239530988274707,"NYU College of Dentistry",2015
+"436","NY",1153,518,44,42,0.0381613183000867,0.0810810810810811,"Stony Brook University School of Dental Medicine",2015
+"446","NY",1717,525,92,76,0.0535818287711124,0.144761904761905,"University at Buffalo School of Dental Medicine",2015
+"437","NY",1810,384,80,24,0.0441988950276243,0.0625,"Columbia University College of Dental Medicine",2016
+"447","NY",4452,633,371,132,0.0833333333333333,0.208530805687204,"NYU College of Dentistry",2016
+"457","NY",1189,508,44,41,0.0370058873002523,0.0807086614173228,"Stony Brook University School of Dental Medicine",2016
+"467","NY",2129,302,111,33,0.0521371535932363,0.109271523178808,"Touro College of Dental Medicine at New York Medical College",2016
+"477","NY",1812,559,93,81,0.0513245033112583,0.144901610017889,"University at Buffalo School of Dental Medicine",2016
+"438","NY",1665,330,80,12,0.048048048048048,0.0363636363636364,"Columbia University College of Dental Medicine",2017
+"448","NY",4161,631,377,171,0.0906032203797164,0.270998415213946,"NYU College of Dentistry",2017
+"458","NY",1151,482,44,40,0.0382276281494353,0.0829875518672199,"Stony Brook University School of Dental Medicine",2017
+"468","NY",2337,528,111,40,0.0474967907573813,0.0757575757575758,"Touro College of Dental Medicine at New York Medical College",2017
+"478","NY",1733,544,90,76,0.051933064050779,0.139705882352941,"University at Buffalo School of Dental Medicine",2017
+"439","NY",1639,304,84,16,0.0512507626601586,0.0526315789473684,"Columbia University College of Dental Medicine",2018
+"449","NY",3357,533,373,140,0.111111111111111,0.26266416510319,"NYU College of Dentistry",2018
+"459","NY",1160,432,46,38,0.0396551724137931,0.087962962962963,"Stony Brook University School of Dental Medicine",2018
+"469","NY",2387,505,109,50,0.0456640134059489,0.099009900990099,"Touro College of Dental Medicine at New York Medical College",2018
+"479","NY",1304,459,93,80,0.071319018404908,0.174291938997821,"University at Buffalo School of Dental Medicine",2018
+"4310","NY",1640,290,84,16,0.0512195121951219,0.0551724137931034,"Columbia University College of Dental Medicine",2019
+"4410","NY",3277,501,377,143,0.115044247787611,0.285429141716567,"NYU College of Dentistry",2019
+"4510","NY",1054,379,46,36,0.0436432637571157,0.0949868073878628,"Stony Brook University School of Dental Medicine",2019
+"4610","NY",2509,480,111,38,0.0442407333599043,0.0791666666666667,"Touro College of Dental Medicine at New York Medical College",2019
+"4710","NY",1968,488,92,71,0.0467479674796748,0.145491803278689,"University at Buffalo School of Dental Medicine",2019
+"4115","NY",1501,259,88,31,0.0586275816122585,0.11969111969112,"Columbia University College of Dental Medicine",2020
+"4213","NY",3035,438,367,143,0.120922570016474,0.32648401826484,"NYU College of Dentistry",2020
+"4311","NY",946,328,46,32,0.0486257928118393,0.0975609756097561,"Stony Brook University School of Dental Medicine",2020
+"4411","NY",2539,432,114,37,0.0448995667585664,0.0856481481481482,"Touro College of Dental Medicine at New York Medical College",2020
+"4511","NY",1800,407,95,60,0.0527777777777778,0.147420147420147,"University at Buffalo School of Dental Medicine",2020
+"4312","NY",1643,341,84,23,0.0511259890444309,0.0674486803519062,"Columbia University College of Dental Medicine",2021
+"4412","NY",3114,520,366,128,0.117533718689788,0.246153846153846,"NYU College of Dentistry",2021
+"4512","NY",1046,412,45,41,0.0430210325047801,0.0995145631067961,"Stony Brook University School of Dental Medicine",2021
+"4612","NY",2589,549,114,63,0.0440324449594438,0.114754098360656,"Touro College of Dental Medicine at New York Medical College",2021
+"4712","NY",2203,524,95,72,0.0431230140717204,0.137404580152672,"University at Buffalo School of Dental Medicine",2021
+"4","OH",3068,195,68,16,0.0221642764015645,0.0820512820512821,"Case Western Reserve University School of Dental Medicine",2009
+"22","OH",1073,240,101,79,0.0941286113699907,0.329166666666667,"The Ohio State University College of Dentistry",2009
+"421","OH",2897,211,72,15,0.0248532965136348,0.0710900473933649,"Case Western Reserve University School of Dental Medicine",2010
+"431","OH",1094,251,99,82,0.0904936014625228,0.326693227091633,"The Ohio State University College of Dentistry",2010
+"442","OH",2847,208,72,11,0.0252897787144362,0.0528846153846154,"Case Western Reserve University School of Dental Medicine",2011
+"452","OH",958,249,104,85,0.108559498956159,0.34136546184739,"The Ohio State University College of Dentistry",2011
+"453","OH",3021,201,72,25,0.0238331678252234,0.124378109452736,"Case Western Reserve University School of Dental Medicine",2012
+"463","OH",892,237,105,86,0.117713004484305,0.362869198312236,"The Ohio State University College of Dentistry",2012
+"464","OH",2439,213,85,20,0.034850348503485,0.0938967136150235,"Case Western Reserve University School of Dental Medicine",2013
+"474","OH",797,234,46,95,0.0577164366373902,0.405982905982906,"The Ohio State University College of Dentistry",2013
+"465","OH",2725,179,74,24,0.0271559633027523,0.134078212290503,"Case Western Reserve University School of Dental Medicine",2014
+"475","OH",991,224,109,89,0.109989909182644,0.397321428571429,"The Ohio State University College of Dentistry",2014
+"476","OH",2683,180,74,17,0.0275810659709281,0.0944444444444444,"Case Western Reserve University School of Dental Medicine",2015
+"486","OH",992,241,113,91,0.113911290322581,0.377593360995851,"The Ohio State University College of Dentistry",2015
+"487","OH",2786,220,76,23,0.0272792534099067,0.104545454545455,"Case Western Reserve University School of Dental Medicine",2016
+"497","OH",1039,258,110,97,0.105871029836381,0.375968992248062,"The Ohio State University College of Dentistry",2016
+"488","OH",2529,228,75,27,0.029655990510083,0.118421052631579,"Case Western Reserve University School of Dental Medicine",2017
+"498","OH",1223,283,110,93,0.0899427636958299,0.328621908127208,"The Ohio State University College of Dentistry",2017
+"489","OH",2561,184,75,25,0.0292854353768059,0.135869565217391,"Case Western Reserve University School of Dental Medicine",2018
+"499","OH",802,207,120,102,0.149625935162095,0.492753623188406,"The Ohio State University College of Dentistry",2018
+"4810","OH",2453,183,76,25,0.0309824704443539,0.136612021857924,"Case Western Reserve University School of Dental Medicine",2019
+"4910","OH",790,237,118,99,0.149367088607595,0.417721518987342,"The Ohio State University College of Dentistry",2019
+"4811","OH",2315,166,75,18,0.0323974082073434,0.108433734939759,"Case Western Reserve University School of Dental Medicine",2020
+"4911","OH",812,244,120,101,0.147783251231527,0.413934426229508,"The Ohio State University College of Dentistry",2020
+"4812","OH",2482,199,77,21,0.0310233682514102,0.105527638190955,"Case Western Reserve University School of Dental Medicine",2021
+"4912","OH",956,269,120,104,0.125523012552301,0.386617100371747,"The Ohio State University College of Dentistry",2021
+"45","OK",610,152,59,41,0.0967213114754098,0.269736842105263,"University of Oklahoma College of Dentistry",2009
+"441","OK",762,162,60,40,0.078740157480315,0.246913580246914,"University of Oklahoma College of Dentistry",2010
+"462","OK",713,148,58,41,0.0813464235624123,0.277027027027027,"University of Oklahoma College of Dentistry",2011
+"473","OK",694,148,55,45,0.0792507204610951,0.304054054054054,"University of Oklahoma College of Dentistry",2012
+"484","OK",1969,138,90,42,0.0457084814626714,0.304347826086957,"University of Oklahoma College of Dentistry",2013
+"485","OK",696,126,56,45,0.0804597701149425,0.357142857142857,"University of Oklahoma College of Dentistry",2014
+"496","OK",655,106,56,42,0.0854961832061069,0.39622641509434,"University of Oklahoma College of Dentistry",2015
+"507","OK",717,110,55,39,0.0767085076708508,0.354545454545455,"University of Oklahoma College of Dentistry",2016
+"508","OK",781,127,54,45,0.0691421254801537,0.354330708661417,"University of Oklahoma College of Dentistry",2017
+"509","OK",743,119,53,44,0.0713324360699865,0.369747899159664,"University of Oklahoma College of Dentistry",2018
+"5010","OK",777,116,53,46,0.0682110682110682,0.396551724137931,"University of Oklahoma College of Dentistry",2019
+"5011","OK",746,115,52,42,0.0697050938337802,0.365217391304348,"University of Oklahoma College of Dentistry",2020
+"5012","OK",738,107,52,43,0.0704607046070461,0.401869158878505,"University of Oklahoma College of Dentistry",2021
+"46","OR",1133,132,74,47,0.0653133274492498,0.356060606060606,"Oregon Health & Science University School of Dentistry",2009
+"451","OR",1069,127,75,49,0.0701590271281572,0.385826771653543,"Oregon Health & Science University School of Dentistry",2010
+"472","OR",1148,136,75,41,0.0653310104529617,0.301470588235294,"Oregon Health & Science University School of Dentistry",2011
+"483","OR",1192,115,75,38,0.0629194630872483,0.330434782608696,"Oregon Health & Science University School of Dentistry",2012
+"494","OR",1865,131,79,49,0.0423592493297587,0.374045801526718,"Oregon Health & Science University School of Dentistry",2013
+"504","OR",390,54,40,1,0.102564102564103,0.0185185185185185,"Western University of Health Sciences College of Dental Medicine",2013
+"495","OR",1329,121,76,53,0.0571858540255831,0.43801652892562,"Oregon Health & Science University School of Dentistry",2014
+"505","OR",2670,60,69,1,0.0258426966292135,0.0166666666666667,"Western University of Health Sciences College of Dental Medicine",2014
+"506","OR",1245,116,75,46,0.0602409638554217,0.396551724137931,"Oregon Health & Science University School of Dentistry",2015
+"5111","OR",1297,102,76,40,0.0585967617579029,0.392156862745098,"Oregon Health & Science University School of Dentistry",2016
+"5112","OR",1243,110,74,44,0.0595333869670153,0.4,"Oregon Health & Science University School of Dentistry",2017
+"5113","OR",1108,103,72,43,0.0649819494584837,0.41747572815534,"Oregon Health & Science University School of Dentistry",2018
+"5114","OR",1000,116,75,46,0.075,0.396551724137931,"Oregon Health & Science University School of Dentistry",2019
+"5115","OR",938,91,74,38,0.0788912579957356,0.417582417582418,"Oregon Health & Science University School of Dentistry",2020
+"5116","OR",892,104,72,43,0.0807174887892377,0.413461538461538,"Oregon Health & Science University School of Dentistry",2021
+"21","PA",4392,297,126,42,0.0286885245901639,0.141414141414141,"The Maurice H. Kornberg School of Dentistry, Temple University",2009
+"47","PA",2200,155,116,21,0.0527272727272727,0.135483870967742,"University of Pennsylvania School of Dental Medicine",2009
+"48","PA",2476,259,76,34,0.0306946688206785,0.131274131274131,"University of Pittsburgh School of Dental Medicine",2009
+"461","PA",4240,310,126,71,0.0297169811320755,0.229032258064516,"The Maurice H. Kornberg School of Dentistry, Temple University",2010
+"471","PA",2112,150,117,15,0.0553977272727273,0.1,"University of Pennsylvania School of Dental Medicine",2010
+"481","PA",2122,255,78,23,0.0367577756833176,0.0901960784313725,"University of Pittsburgh School of Dental Medicine",2010
+"482","PA",4127,322,127,63,0.030772958565544,0.195652173913043,"The Maurice H. Kornberg School of Dentistry, Temple University",2011
+"492","PA",2207,152,122,16,0.0552786588128681,0.105263157894737,"University of Pennsylvania School of Dental Medicine",2011
+"502","PA",2145,250,78,40,0.0363636363636364,0.16,"University of Pittsburgh School of Dental Medicine",2011
+"493","PA",4188,336,126,57,0.0300859598853868,0.169642857142857,"The Maurice H. Kornberg School of Dentistry, Temple University",2012
+"503","PA",2523,167,119,16,0.0471660721363456,0.0958083832335329,"University of Pennsylvania School of Dental Medicine",2012
+"515","PA",2281,252,74,26,0.0324419114423498,0.103174603174603,"University of Pittsburgh School of Dental Medicine",2012
+"517","PA",1420,133,95,6,0.0669014084507042,0.0451127819548872,"Lake Erie College of Osteopathic Medicine School of Dental Medicine",2013
+"524","PA",4954,310,366,61,0.0738796931772305,0.196774193548387,"The Maurice H. Kornberg School of Dentistry, Temple University",2013
+"534","PA",2085,155,79,18,0.0378896882494005,0.116129032258065,"University of Pennsylvania School of Dental Medicine",2013
+"544","PA",2264,238,80,40,0.0353356890459364,0.168067226890756,"University of Pittsburgh School of Dental Medicine",2013
+"519","PA",3143,137,100,8,0.0318167356029271,0.0583941605839416,"Lake Erie College of Osteopathic Medicine School of Dental Medicine",2014
+"525","PA",3378,280,139,61,0.0411486086441681,0.217857142857143,"The Maurice H. Kornberg School of Dentistry, Temple University",2014
+"535","PA",2230,145,118,16,0.052914798206278,0.110344827586207,"University of Pennsylvania School of Dental Medicine",2014
+"545","PA",1889,210,80,40,0.042350449973531,0.19047619047619,"University of Pittsburgh School of Dental Medicine",2014
+"5110","PA",3008,268,137,69,0.0455452127659574,0.257462686567164,"The Maurice H. Kornberg School of Dentistry, Temple University",2015
+"526","PA",2313,157,120,20,0.0518806744487678,0.127388535031847,"University of Pennsylvania School of Dental Medicine",2015
+"536","PA",1818,216,79,32,0.0434543454345435,0.148148148148148,"University of Pittsburgh School of Dental Medicine",2015
+"528","PA",3185,307,137,74,0.0430141287284144,0.241042345276873,"The Maurice H. Kornberg School of Dentistry, Temple University",2016
+"537","PA",2317,162,124,15,0.0535174794993526,0.0925925925925926,"University of Pennsylvania School of Dental Medicine",2016
+"547","PA",2000,233,80,38,0.04,0.163090128755365,"University of Pittsburgh School of Dental Medicine",2016
+"5210","PA",2986,327,139,71,0.0465505693235097,0.217125382262997,"The Maurice H. Kornberg School of Dentistry, Temple University",2017
+"538","PA",2191,153,134,19,0.0611592879963487,0.124183006535948,"University of Pennsylvania School of Dental Medicine",2017
+"548","PA",1865,247,80,37,0.0428954423592493,0.149797570850202,"University of Pittsburgh School of Dental Medicine",2017
+"5211","PA",3122,298,138,56,0.0442024343369635,0.187919463087248,"The Maurice H. Kornberg School of Dentistry, Temple University",2018
+"539","PA",2167,147,133,20,0.0613751730503,0.136054421768707,"University of Pennsylvania School of Dental Medicine",2018
+"549","PA",1484,211,77,43,0.0518867924528302,0.203791469194313,"University of Pittsburgh School of Dental Medicine",2018
+"5212","PA",2999,292,138,66,0.0460153384461487,0.226027397260274,"The Maurice H. Kornberg School of Dentistry, Temple University",2019
+"5310","PA",2056,152,135,17,0.0656614785992218,0.111842105263158,"University of Pennsylvania School of Dental Medicine",2019
+"5410","PA",1710,207,80,42,0.0467836257309941,0.202898550724638,"University of Pittsburgh School of Dental Medicine",2019
+"5213","PA",2755,244,141,61,0.0511796733212341,0.25,"The Maurice H. Kornberg School of Dentistry, Temple University",2020
+"5311","PA",1981,122,136,17,0.0686521958606764,0.139344262295082,"University of Pennsylvania School of Dental Medicine",2020
+"5411","PA",1521,188,80,31,0.0525969756738988,0.164893617021277,"University of Pittsburgh School of Dental Medicine",2020
+"5214","PA",2870,244,139,52,0.0484320557491289,0.213114754098361,"The Maurice H. Kornberg School of Dentistry, Temple University",2021
+"5312","PA",2159,135,150,27,0.0694766095414544,0.2,"University of Pennsylvania School of Dental Medicine",2021
+"5412","PA",1583,196,80,43,0.0505369551484523,0.219387755102041,"University of Pittsburgh School of Dental Medicine",2021
+"49","PR",396,85,39,36,0.0984848484848485,0.423529411764706,"University of Puerto Rico School of Dental Medicine",2009
+"491","PR",437,118,45,42,0.102974828375286,0.355932203389831,"University of Puerto Rico School of Dental Medicine",2010
+"513","PR",358,108,40,36,0.111731843575419,0.333333333333333,"University of Puerto Rico School of Dental Medicine",2011
+"523","PR",401,106,42,39,0.104738154613466,0.367924528301887,"University of Puerto Rico School of Dental Medicine",2012
+"554","PR",1129,78,41,35,0.0363153232949513,0.448717948717949,"University of Puerto Rico School of Dental Medicine",2013
+"555","PR",390,70,41,35,0.105128205128205,0.5,"University of Puerto Rico School of Dental Medicine",2014
+"546","PR",398,95,39,38,0.0979899497487437,0.4,"University of Puerto Rico School of Dental Medicine",2015
+"557","PR",377,80,41,40,0.108753315649867,0.5,"University of Puerto Rico School of Dental Medicine",2016
+"558","PR",362,55,39,37,0.107734806629834,0.672727272727273,"University of Puerto Rico School of Dental Medicine",2017
+"559","PR",398,60,41,39,0.103015075376884,0.65,"University of Puerto Rico School of Dental Medicine",2018
+"5510","PR",314,72,40,35,0.127388535031847,0.486111111111111,"University of Puerto Rico School of Dental Medicine",2019
+"5511","PR",321,84,40,38,0.124610591900312,0.452380952380952,"University of Puerto Rico School of Dental Medicine",2020
+"5512","PR",344,76,43,40,0.125,0.526315789473684,"University of Puerto Rico School of Dental Medicine",2021
+"14","SC",776,160,58,47,0.0747422680412371,0.29375,"Medical University of South Carolina James B. Edwards College of Dental Medicine",2009
+"501","SC",759,172,70,53,0.0922266139657444,0.308139534883721,"Medical University of South Carolina James B. Edwards College of Dental Medicine",2010
+"522","SC",788,167,70,55,0.0888324873096447,0.329341317365269,"Medical University of South Carolina James B. Edwards College of Dental Medicine",2011
+"533","SC",972,172,72,53,0.0740740740740741,0.308139534883721,"Medical University of South Carolina James B. Edwards College of Dental Medicine",2012
+"564","SC",1783,158,90,54,0.0504767246214246,0.341772151898734,"Medical University of South Carolina James B. Edwards College of Dental Medicine",2013
+"565","SC",1017,146,74,48,0.0727630285152409,0.328767123287671,"Medical University of South Carolina James B. Edwards College of Dental Medicine",2014
+"556","SC",1104,139,74,48,0.0670289855072464,0.345323741007194,"Medical University of South Carolina James B. Edwards College of Dental Medicine",2015
+"567","SC",1252,149,75,56,0.0599041533546326,0.375838926174497,"Medical University of South Carolina James B. Edwards College of Dental Medicine",2016
+"568","SC",1331,132,75,52,0.0563486100676183,0.393939393939394,"Medical University of South Carolina James B. Edwards College of Dental Medicine",2017
+"569","SC",1366,135,76,59,0.0556368960468521,0.437037037037037,"Medical University of South Carolina James B. Edwards College of Dental Medicine",2018
+"5610","SC",1319,117,77,57,0.0583775587566338,0.487179487179487,"Medical University of South Carolina James B. Edwards College of Dental Medicine",2019
+"5611","SC",1212,127,78,55,0.0643564356435644,0.433070866141732,"Medical University of South Carolina James B. Edwards College of Dental Medicine",2020
+"5612","SC",1342,151,78,57,0.0581222056631893,0.377483443708609,"Medical University of South Carolina James B. Edwards College of Dental Medicine",2021
+"15","TN",2023,86,50,4,0.0247157686604053,0.0465116279069767,"Meharry Medical College School of Dentistry",2009
+"51","TN",549,162,80,51,0.145719489981785,0.314814814814815,"University of Tennessee Health Science Center College of Dentistry",2009
+"511","TN",1884,97,49,9,0.0260084925690021,0.0927835051546392,"Meharry Medical College School of Dentistry",2010
+"521","TN",575,176,80,49,0.139130434782609,0.278409090909091,"University of Tennessee Health Science Center College of Dentistry",2010
+"532","TN",1843,100,55,11,0.0298426478567553,0.11,"Meharry Medical College School of Dentistry",2011
+"542","TN",478,171,81,44,0.169456066945607,0.257309941520468,"University of Tennessee Health Science Center College of Dentistry",2011
+"543","TN",1975,101,60,6,0.030379746835443,0.0594059405940594,"Meharry Medical College School of Dentistry",2012
+"553","TN",1230,168,89,47,0.0723577235772358,0.279761904761905,"University of Tennessee Health Science Center College of Dentistry",2012
+"574","TN",2794,103,75,11,0.0268432355046528,0.106796116504854,"Meharry Medical College School of Dentistry",2013
+"584","TN",1411,181,86,45,0.0609496810772502,0.248618784530387,"University of Tennessee Health Science Center College of Dentistry",2013
+"575","TN",1808,99,57,20,0.0315265486725664,0.202020202020202,"Meharry Medical College School of Dentistry",2014
+"585","TN",1201,164,89,47,0.074104912572856,0.286585365853659,"University of Tennessee Health Science Center College of Dentistry",2014
+"566","TN",2069,108,59,14,0.0285161913968101,0.12962962962963,"Meharry Medical College School of Dentistry",2015
+"576","TN",1311,167,94,46,0.0717009916094584,0.275449101796407,"University of Tennessee Health Science Center College of Dentistry",2015
+"577","TN",2251,122,60,16,0.0266548200799645,0.131147540983607,"Meharry Medical College School of Dentistry",2016
+"587","TN",1494,187,97,46,0.0649263721552878,0.245989304812834,"University of Tennessee Health Science Center College of Dentistry",2016
+"578","TN",2337,121,61,18,0.0261018399657681,0.148760330578512,"Meharry Medical College School of Dentistry",2017
+"588","TN",1672,174,98,50,0.0586124401913876,0.28735632183908,"University of Tennessee Health Science Center College of Dentistry",2017
+"579","TN",2450,118,59,13,0.0240816326530612,0.110169491525424,"Meharry Medical College School of Dentistry",2018
+"589","TN",1673,151,93,55,0.0555887627017334,0.364238410596026,"University of Tennessee Health Science Center College of Dentistry",2018
+"5710","TN",2312,110,62,9,0.0268166089965398,0.0818181818181818,"Meharry Medical College School of Dentistry",2019
+"5810","TN",1387,154,97,64,0.0699351117519827,0.415584415584416,"University of Tennessee Health Science Center College of Dentistry",2019
+"5711","TN",2137,110,62,9,0.029012634534394,0.0818181818181818,"Meharry Medical College School of Dentistry",2020
+"5811","TN",1201,162,98,61,0.0815986677768526,0.376543209876543,"University of Tennessee Health Science Center College of Dentistry",2020
+"5712","TN",2202,130,61,12,0.0277020890099909,0.0923076923076923,"Meharry Medical College School of Dentistry",2021
+"5812","TN",1557,202,105,71,0.0674373795761079,0.351485148514851,"University of Tennessee Health Science Center College of Dentistry",2021
+"2","TX",698,112,95,90,0.136103151862464,0.803571428571429,"Texas A&M College of Dentistry",2009
+"52","TX",1135,710,86,85,0.0757709251101322,0.119718309859155,"University of Texas School of Dentistry at Houston",2009
+"53","TX",609,112,93,90,0.152709359605911,0.803571428571429,"UT Health San Antonio School of Dentistry",2009
+"531","TX",1385,721,99,91,0.0714801444043321,0.12621359223301,"Texas A&M College of Dentistry",2010
+"541","TX",1585,733,82,74,0.0517350157728707,0.100954979536153,"University of Texas School of Dentistry at Houston",2010
+"551","TX",1289,766,94,89,0.0729247478665632,0.116187989556136,"UT Health San Antonio School of Dentistry",2010
+"552","TX",1530,819,104,95,0.0679738562091503,0.115995115995116,"Texas A&M College of Dentistry",2011
+"562","TX",1249,817,83,80,0.066453162530024,0.0979192166462668,"University of Texas School of Dentistry at Houston",2011
+"572","TX",1355,829,96,88,0.0708487084870849,0.106151990349819,"UT Health San Antonio School of Dentistry",2011
+"563","TX",756,129,104,97,0.137566137566138,0.751937984496124,"Texas A&M College of Dentistry",2012
+"573","TX",654,208,99,99,0.151376146788991,0.475961538461538,"University of Texas School of Dentistry at Houston",2012
+"583","TX",573,113,100,94,0.174520069808028,0.831858407079646,"UT Health San Antonio School of Dentistry",2012
+"593","TX",941,893,110,74,0.116896918172157,0.0828667413213886,"Texas A&M College of Dentistry",2013
+"602","TX",1235,896,75,86,0.0607287449392713,0.0959821428571429,"UT Health San Antonio School of Dentistry",2013
+"613","TX",724,893,55,94,0.0759668508287293,0.105263157894737,"University of Texas School of Dentistry at Houston",2013
+"594","TX",1605,899,104,90,0.064797507788162,0.100111234705228,"Texas A&M College of Dentistry",2014
+"603","TX",1449,902,102,98,0.0703933747412008,0.108647450110865,"UT Health San Antonio School of Dentistry",2014
+"614","TX",1442,901,97,97,0.0672676837725381,0.107658157602664,"University of Texas School of Dentistry at Houston",2014
+"586","TX",1538,824,106,90,0.0689206762028609,0.109223300970874,"Texas A&M College of Dentistry",2015
+"595","TX",1355,811,99,95,0.0730627306273063,0.117139334155364,"UT Health San Antonio School of Dentistry",2015
+"604","TX",1364,810,101,97,0.0740469208211144,0.119753086419753,"University of Texas School of Dentistry at Houston",2015
+"596","TX",1564,798,105,97,0.0671355498721228,0.121553884711779,"Texas A&M College of Dentistry",2016
+"605","TX",1347,818,98,95,0.0727542687453601,0.116136919315403,"UT Health San Antonio School of Dentistry",2016
+"616","TX",1422,808,103,99,0.0724331926863572,0.122524752475248,"University of Texas School of Dentistry at Houston",2016
+"597","TX",1585,875,102,96,0.0643533123028391,0.109714285714286,"Texas A&M College of Dentistry",2017
+"606","TX",1412,866,100,95,0.0708215297450425,0.109699769053118,"UT Health San Antonio School of Dentistry",2017
+"618","TX",1444,854,103,97,0.0713296398891967,0.113583138173302,"University of Texas School of Dentistry at Houston",2017
+"598","TX",1585,875,106,97,0.0668769716088328,0.110857142857143,"Texas A&M College of Dentistry",2018
+"607","TX",1390,868,99,95,0.0712230215827338,0.109447004608295,"UT Health San Antonio School of Dentistry",2018
+"6110","TX",1212,861,103,99,0.084983498349835,0.114982578397213,"University of Texas School of Dentistry at Houston",2018
+"599","TX",1559,885,105,99,0.0673508659397049,0.111864406779661,"Texas A&M College of Dentistry",2019
+"608","TX",1420,875,100,97,0.0704225352112676,0.110857142857143,"UT Health San Antonio School of Dentistry",2019
+"6111","TX",1465,879,105,98,0.0716723549488055,0.111490329920364,"University of Texas School of Dentistry at Houston",2019
+"5910","TX",1426,840,103,94,0.0722300140252454,0.111904761904762,"Texas A&M College of Dentistry",2020
+"609","TX",1436,849,100,97,0.0696378830083565,0.114252061248528,"UT Health San Antonio School of Dentistry",2020
+"6112","TX",1438,844,104,96,0.0723226703755216,0.113744075829384,"University of Texas School of Dentistry at Houston",2020
+"5911","TX",1630,923,106,98,0.0650306748466258,0.106175514626219,"Texas A&M College of Dentistry",2021
+"6010","TX",964,873,40,38,0.04149377593361,0.0435280641466208,"Texas Tech University Health Sciences Center El Paso Woody L. Hunt School of Dental Medicine",2021
+"6113","TX",1599,933,100,94,0.0625390869293308,0.10075026795284,"UT Health San Antonio School of Dentistry",2021
+"6211","TX",1617,931,106,102,0.0655534941249227,0.109559613319012,"University of Texas School of Dentistry at Houston",2021
+"582","UT",1101,29,64,3,0.0581289736603088,0.103448275862069,"Roseman University of Health Sciences College of Dental Medicine – South Jordan, Utah",2011
+"592","UT",1429,143,78,29,0.0545836249125262,0.202797202797203,"Roseman University of Health Sciences College of Dental Medicine – South Jordan, Utah",2012
+"622","UT",1061,173,64,20,0.060320452403393,0.115606936416185,"University of Utah School of Dentistry",2013
+"623","UT",690,145,23,19,0.0333333333333333,0.131034482758621,"University of Utah School of Dentistry",2014
+"615","UT",1790,140,82,18,0.0458100558659218,0.128571428571429,"Roseman University of Health Sciences College of Dental Medicine – South Jordan, Utah",2015
+"624","UT",530,130,27,18,0.0509433962264151,0.138461538461538,"University of Utah School of Dentistry",2015
+"625","UT",2096,169,84,26,0.0400763358778626,0.153846153846154,"Roseman University of Health Sciences College of Dental Medicine – South Jordan, Utah",2016
+"635","UT",520,153,46,27,0.0884615384615385,0.176470588235294,"University of Utah School of Dentistry",2016
+"626","UT",2123,127,84,21,0.0395666509656147,0.165354330708661,"Roseman University of Health Sciences College of Dental Medicine – South Jordan, Utah",2017
+"636","UT",450,122,50,22,0.111111111111111,0.180327868852459,"University of Utah School of Dentistry",2017
+"627","UT",1980,133,100,19,0.0505050505050505,0.142857142857143,"Roseman University of Health Sciences College of Dental Medicine – South Jordan, Utah",2018
+"637","UT",441,120,49,26,0.111111111111111,0.216666666666667,"University of Utah School of Dentistry",2018
+"628","UT",1758,107,100,19,0.0568828213879408,0.177570093457944,"Roseman University of Health Sciences College of Dental Medicine – South Jordan, Utah",2019
+"638","UT",504,118,50,31,0.0992063492063492,0.26271186440678,"University of Utah School of Dentistry",2019
+"6210","UT",1719,111,102,20,0.0593368237347295,0.18018018018018,"Roseman University of Health Sciences College of Dental Medicine – South Jordan, Utah",2020
+"639","UT",467,123,50,22,0.107066381156317,0.178861788617886,"University of Utah School of Dentistry",2020
+"6310","UT",2090,123,100,20,0.0478468899521531,0.16260162601626,"Roseman University of Health Sciences College of Dental Medicine – South Jordan, Utah",2021
+"649","UT",479,141,50,26,0.104384133611691,0.184397163120567,"University of Utah School of Dentistry",2021
+"56","VA",2548,282,100,61,0.0392464678178964,0.216312056737589,"Virginia Commonwealth University School of Dentistry",2009
+"561","VA",2535,303,93,60,0.0366863905325444,0.198019801980198,"Virginia Commonwealth University School of Dentistry",2010
+"591","VA",2513,313,95,62,0.0378034222045364,0.198083067092652,"Virginia Commonwealth University School of Dentistry",2011
+"601","VA",2575,308,93,63,0.0361165048543689,0.204545454545455,"Virginia Commonwealth University School of Dentistry",2012
+"632","VA",2731,303,66,64,0.0241669718051996,0.211221122112211,"Virginia Commonwealth University School of Dentistry",2013
+"633","VA",2147,333,96,64,0.0447135537959944,0.192192192192192,"Virginia Commonwealth University School of Dentistry",2014
+"634","VA",2103,320,95,65,0.0451735615786971,0.203125,"Virginia Commonwealth University School of Dentistry",2015
+"644","VA",2120,325,95,64,0.044811320754717,0.196923076923077,"Virginia Commonwealth University School of Dentistry",2016
+"645","VA",2167,299,92,62,0.042455006922012,0.207357859531773,"Virginia Commonwealth University School of Dentistry",2017
+"646","VA",1658,265,95,63,0.0572979493365501,0.237735849056604,"Virginia Commonwealth University School of Dentistry",2018
+"647","VA",2373,281,98,61,0.0412979351032448,0.217081850533808,"Virginia Commonwealth University School of Dentistry",2019
+"648","VA",2156,274,94,60,0.0435992578849722,0.218978102189781,"Virginia Commonwealth University School of Dentistry",2020
+"658","VA",2181,291,95,62,0.0435580009170105,0.213058419243986,"Virginia Commonwealth University School of Dentistry",2021
+"55","WA",1152,251,62,53,0.0538194444444444,0.211155378486056,"University of Washington School of Dentistry",2009
+"571","WA",1027,276,60,51,0.0584225900681597,0.184782608695652,"University of Washington School of Dentistry",2010
+"60","WA",996,251,63,57,0.0632530120481928,0.227091633466135,"University of Washington School of Dentistry",2011
+"612","WA",1093,220,63,53,0.0576395242451967,0.240909090909091,"University of Washington School of Dentistry",2012
+"641","WA",2819,252,100,54,0.0354735721887194,0.214285714285714,"University of Washington School of Dentistry",2013
+"642","WA",1047,255,62,48,0.0592168099331423,0.188235294117647,"University of Washington School of Dentistry",2014
+"643","WA",1018,206,63,54,0.0618860510805501,0.262135922330097,"University of Washington School of Dentistry",2015
+"653","WA",1091,207,63,56,0.0577451879010083,0.270531400966184,"University of Washington School of Dentistry",2016
+"654","WA",938,188,63,56,0.0671641791044776,0.297872340425532,"University of Washington School of Dentistry",2017
+"655","WA",482,163,63,53,0.130705394190871,0.325153374233129,"University of Washington School of Dentistry",2018
+"656","WA",444,162,61,53,0.137387387387387,0.327160493827161,"University of Washington School of Dentistry",2019
+"657","WA",484,149,63,56,0.130165289256198,0.375838926174497,"University of Washington School of Dentistry",2020
+"668","WA",625,189,63,49,0.1008,0.259259259259259,"University of Washington School of Dentistry",2021
+"12","WI",3044,188,78,40,0.0256241787122208,0.212765957446809,"Marquette University School of Dentistry",2009
+"581","WI",2719,174,80,40,0.0294225818315557,0.229885057471264,"Marquette University School of Dentistry",2010
+"611","WI",2544,169,80,40,0.0314465408805031,0.236686390532544,"Marquette University School of Dentistry",2011
+"621","WI",2326,183,80,41,0.0343938091143594,0.224043715846995,"Marquette University School of Dentistry",2012
+"65","WI",2300,171,120,48,0.0521739130434783,0.280701754385965,"Marquette University School of Dentistry",2013
+"651","WI",2397,176,100,49,0.0417188151856487,0.278409090909091,"Marquette University School of Dentistry",2014
+"662","WI",2269,164,100,52,0.0440722785368004,0.317073170731707,"Marquette University School of Dentistry",2015
+"663","WI",2318,194,100,50,0.0431406384814495,0.257731958762887,"Marquette University School of Dentistry",2016
+"664","WI",2161,173,100,49,0.0462748727441,0.283236994219653,"Marquette University School of Dentistry",2017
+"665","WI",2353,162,100,52,0.0424989375265618,0.320987654320988,"Marquette University School of Dentistry",2018
+"666","WI",2316,174,100,51,0.0431778929188256,0.293103448275862,"Marquette University School of Dentistry",2019
+"667","WI",2437,159,107,50,0.0439064423471481,0.314465408805031,"Marquette University School of Dentistry",2020
+"676","WI",2551,167,100,50,0.0392003136025088,0.29940119760479,"Marquette University School of Dentistry",2021
+"57","WV",1548,55,50,0,0.0322997416020672,0,"West Virginia University School of Dentistry",2009
+"59","WV",1281,71,49,39,0.0382513661202186,0.549295774647887,"West Virginia University School of Dentistry",2010
+"62","WV",1212,80,48,39,0.0396039603960396,0.4875,"West Virginia University School of Dentistry",2011
+"631","WV",1220,83,60,43,0.0491803278688525,0.518072289156627,"West Virginia University School of Dentistry",2012
+"66","WV",3589,74,126,36,0.0351072722206743,0.486486486486487,"West Virginia University School of Dentistry",2013
+"661","WV",1145,54,57,28,0.0497816593886463,0.518518518518518,"West Virginia University School of Dentistry",2014
+"652","WV",1333,70,48,33,0.0360090022505626,0.471428571428571,"West Virginia University School of Dentistry",2015
+"671","WV",1432,76,48,43,0.0335195530726257,0.565789473684211,"West Virginia University School of Dentistry",2016
+"672","WV",1354,71,48,37,0.0354505169867061,0.52112676056338,"West Virginia University School of Dentistry",2017
+"673","WV",998,49,47,21,0.0470941883767535,0.428571428571429,"West Virginia University School of Dentistry",2018
+"674","WV",960,64,47,29,0.0489583333333333,0.453125,"West Virginia University School of Dentistry",2019
+"675","WV",962,53,48,34,0.0498960498960499,0.641509433962264,"West Virginia University School of Dentistry",2020
+"681","WV",853,44,48,27,0.0562719812426729,0.613636363636364,"West Virginia University School of Dentistry",2021
